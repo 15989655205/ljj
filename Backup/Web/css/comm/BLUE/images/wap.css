@@ -1,0 +1,190 @@
+.WapBody {
+	border : 0px;
+	padding : 0px;
+	width : 380px;
+	min-width : 240px;
+	margin : 0px auto;
+	font-size : 12px;
+}
+
+.Btn {
+	color:blue;
+	cursor:pointer;
+	text-decoration:none;
+}
+
+.WapMsgTitle {
+	font-size : 12px;
+	border-collapse:collapse;
+	COLOR : #0A78B4;
+}
+
+
+.WapMsgTitleT {
+	font-size : 18px;
+	color : #0F82C1;
+}
+
+.WapMsgTitleC {
+	font-size : 12px;
+	color : #0A78B4;
+}
+
+.WapMsgTitleH {
+	font-size : 12px;
+	color : #909090;
+}
+
+.WapMsgTitleTd {
+	background: url(images/XinxiyueduTitle.gif) repeat-x;
+}
+
+.WapMsgAttachMent {
+	font-size : 12px;
+	color : #0976B2;
+}
+
+.WapMsgTitleLittle {
+	font-size : 10px;
+}
+
+#WapMsgTitleColor {
+	background: url(images/ContentTitle.gif) repeat-x;
+	overflow:hidden;
+}
+
+#WapPageTitleContent {
+	background: #4CA8E4;
+	WIDTH:50px;
+	margin:0px;
+	padding:0px;
+}
+
+.WapTitle {
+	font-size : 14px;
+}
+
+.WapInputAreaStyle {
+	border: #91c0e3 1px solid; 
+	width: 100%;
+	height: 100%;
+	background-color: #E3F6FE;
+	font-size:12px;
+}
+
+.WapInputStyle {
+	width: 100%;
+	HEIGHT: auto; 
+	BACKGROUND-COLOR: #FFFFFF;
+}
+
+.WapPageZhuyeTd {
+	background: url(images/zhuye.gif) repeat-x;
+	text-align:left;
+}
+
+.WapPageZhuyeDarkBlueTd {
+	background: url(images/zhuyedarkblue.gif) repeat-x;
+	text-align:center;
+}
+
+#WapPageHead {
+	background:#0C7CB9 ;
+	height: 24px;
+}
+
+#WapPageHeadColor {
+	background:#E3F6FE ;
+	height: 24px;
+}
+
+#WapPageSelector {
+	font-size:12px;
+	padding-left:0px;
+}
+
+#WapPageLine {
+	background: url(images/pageTitle.gif) repeat-x;
+	height:30px;
+	overflow:hidden;
+}
+
+#WapPageLineDu {
+	background: url(images/wbw.gif) repeat-x;
+	height:7px;
+	overflow:hidden;
+}
+
+#WapDocBottom {
+	background: url(images/DocBottom.gif) repeat-x;
+	height:45px;
+}
+
+#WapPageTitleLineDu {
+	background: url(images/XinxiyueduTitle.gif) repeat;
+	height:20px;
+	overflow:hidden;
+}
+
+#WapWeiDuImg {
+	height:3px;
+	padding-top: 7px;
+}
+
+
+.FuncBtn {
+	float: left;
+	cursor: pointer;
+}
+
+.FuncBtnHead {
+	background: url(images/MsgReadHead.gif) no-repeat;
+	float: left;
+	width: 3px;
+	height: 20px;
+}
+
+.FuncBtnMemo {
+	background: url(images/MsgReadBody.gif) repeat-x;
+	float: left;
+	height: 20px;
+	padding-top: 4px;
+	padding-left: 8px;
+	padding-right: 8px;
+}
+
+.FuncBtnTail {
+	background: url(images/MsgReadTial.gif) no-repeat;
+	float: left;
+	width: 3px;
+	height: 20px;
+}
+
+.folderCss {
+	 bgcolor=#DBF2FF;
+}
+
+.bgchangeToRight{
+	background: url(images/tabRight.gif) no-repeat;	
+}
+
+.bgchangeToFalse{
+	background: url(images/tabFalse.gif) no-repeat;	
+}
+.underlinetdblue {
+	border-bottom: 1px solid #C4E7FA;
+}
+
+.underlinetdwhite{
+	border-bottom: 1px solid #FFFFFF;
+}
+
+.ALIGNRIGHTTD {
+	text-align:right;
+}
+
+.newRenWu{
+	background: url(images/actNewCal.gif) no-repeat;
+	margin:0px;
+		
+}

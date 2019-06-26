@@ -1,0 +1,21 @@
+
+#TablePicture {
+	width: 100%;
+	color: #004779;
+	font-size: 12px;
+	background: #CCC;
+	padding-top: 3px;
+	padding-left: 0pt;
+	overflow-y: auto;
+	border: outset 1 #999999;
+}
+
+.TablePictureDetail {
+	background: #FFFFFF;
+	font-size: 9pt;
+	height: 20px;
+}
+
+.TablePictureDetail td {
+	border-bottom: 1 Solid #CCC;
+}

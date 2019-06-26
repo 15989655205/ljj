@@ -1,0 +1,49 @@
+vml\:*
+{
+    FONT-SIZE: 12px;
+    BEHAVIOR: url(#vmlRender)
+}
+
+.TitleFont {
+	color: #004C83;
+	font-weight: bold;
+	padding-bottom: 4px;
+}
+
+.DetailFont {
+	color: #7893A7;
+}
+
+ul {
+	list-style-type: none;
+}
+
+.MenuStyle {
+	list-style-type: none;
+	width: 150px;
+	border-top:window 1px solid;
+	border-left:window 1px solid;
+	border-bottom:buttonshadow 1px solid;
+	border-right:buttonshadow 1px solid;
+	background-color:#0072BC;
+	font-size: 12px;
+}
+
+.MenuSelect {
+	background-color:highlight;
+	color:highlighttext;
+	cursor:hand;
+	list-style-type: none;
+}
+
+.MenuItem {
+	background-color:buttonface;
+	color:buttontext;
+	cursor:default;
+	list-style-type: none;
+}
+
+.MenuLine {
+	background-color:buttonshadow;
+	list-style-type: none;
+}

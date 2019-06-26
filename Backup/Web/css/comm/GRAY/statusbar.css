@@ -1,0 +1,32 @@
+.Statusbar_bg {
+	
+	background: #D4D0C8;
+}
+
+.statusbar_font {
+	color: #FFFFFF;
+	size: 2px;
+}
+
+.small {
+	FILTER: progid:DXImageTransform.Microsoft.Gradient(gradientType=0,startColorStr=#ffffff,endColorStr=#9D9DA1);
+	FONT-SIZE: 9pt;
+}
+
+.statusbar {
+	BACKGROUND: url(images/statusbar.gif) #D4D0C8; COLOR: #000000
+}
+
+a:link {
+	COLOR: #666666; TEXT-DECORATION: none
+}
+a:visited {
+	COLOR: #666666; TEXT-DECORATION: none
+}
+
+a:active {
+	COLOR: red; TEXT-DECORATION: underline
+}
+a:hover {
+	COLOR: red; TEXT-DECORATION: underline
+}

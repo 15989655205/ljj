@@ -1,0 +1,51 @@
+body {
+	background: #ffffff;
+}
+
+A {
+	color: #024675;
+	TEXT-DECORATION: none;
+}
+
+.MsgTitle {
+	width: 100%;
+	height: 25px;
+	border-top: 1px solid #c0c0c0;
+	border-bottom: 1px solid #c0c0c0;
+	padding-left: 15px;
+	padding-top: 5px;
+	filter: progid:DXImageTransform.Microsoft.gradient(startcolorstr=#e3eff7,endcolorstr=#feffff,gradientType=0);
+	color: #024675;
+	font-weight: bold;
+	cursor: pointer;
+}
+
+.MsgData {
+	float: left;
+	width: 100%;
+	height: 120px;
+	background: #fff;
+	padding: 5px;
+	border-bottom: 2px solid #4788be;
+}
+
+.HeaderImg {
+	align: center;
+	width: 100px;
+}
+
+.MsgContent {
+	background: url(images/newMsgLine.gif) no-repeat;
+	padding-top: 5px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 5px;
+	font-size: 12px;
+	line-height: 20px;
+	color: #000000;
+}
+
+.MsgSender {
+	color: #024675;
+	font-weight: bold;
+}

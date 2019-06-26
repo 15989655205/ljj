@@ -1,0 +1,367 @@
+A:link {
+	COLOR: #308C2F; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #308C2F; TEXT-DECORATION: none
+}
+A:active {
+	COLOR: #308C2F; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #308C2F; TEXT-DECORATION: underLine;
+}
+
+body {
+	background-color: #ffffff;
+	overflow: scroll;
+	overflow-y: hidden;
+	font-size: 12px;
+}
+
+ul {
+	margin: 0px;
+	list-style-type: none;
+	padding:0px; 
+}
+
+#Top {
+	margin-left:1px;
+	height: 20px;
+	width: 100%;
+	background-color: #69B748;
+	padding-left: 5px;
+	padding-bottom: 3px;
+}
+
+#Top ul {
+	margin: 0px;
+	list-style-type: none;
+	padding-top: 5px;
+	height: 17px;
+}
+
+#Top li {
+	border-right: 1px solid #B8F292;
+	float: left;
+	font-size: 12px;
+	font-family: ËÎÌו;
+	color: #308C2F;
+	padding-left: 4px;
+	padding-right: 4px;
+	cursor: pointer;
+}
+
+#Top img {
+	margin-bottom: -2px;
+}
+
+#Top A{
+	color: #308C2F;
+	TEXT-DECORATION: none;
+}
+
+#Content {
+	overflow-y: auto;
+	padding-left: 4px;
+	padding-right: 4px;
+	scrollbar-base-color: #CAFFB8;
+	scrollbar-arrow-color: #66B910;
+	scrollbar-track-color: #C7E2AD;
+	scrollbar-3dlight-color: #60AB0E;
+	scrollbar-darkshadow-color: #60AB0E;
+	scrollbar-face-color: #CAFFB8;
+	scrollbar-shadow-color: #C0DEA4;
+}
+
+#DesktopBlock {
+	float: left; 
+	width: 100%;
+}
+
+#Block {
+	margin-left: 3px;
+	margin-right: 3px;
+	border: 1px solid #69B748;
+	background-color: #ffffff;
+	margin-top: 6px;
+}
+
+#BlockHead {
+	height: 21px;
+	background:url(images/htmlTitlebg.jpg) repeat-x left top !important;
+	filter: progid:DXImageTransform.Microsoft.gradient(startcolorstr=#C7ED98,endcolorstr=#EAF8D8,gradientType=0);
+	margin-top: 1px;
+	margin-right: 1px;
+	margin-left: 1px;
+	padding-top: 2px;
+	padding-left: 5px;
+}
+
+#BlockHead td {
+	font-weight: bold;
+	font-size: 13px;
+	color: #308C2F;
+}
+
+#BlockHead img {
+	margin: 2px;
+	cursor: pointer;
+}
+
+#BlockDetail {
+	height:105px;
+	padding-right: 7px;
+	padding-left: 10px;
+	padding-top: 5px;
+}
+
+.AdageTopLeft {
+	background: url(images/adage_top_left.gif) no-repeat;
+}
+
+.AdageTopRight {
+	background: url(images/adage_top_right.gif) no-repeat;
+}
+
+.AdageBottomLeft {
+	background: url(images/adage_bottom_left.gif) no-repeat;
+}
+
+.AdageBottomRight {
+	background: url(images/adage_bottom_right.gif) no-repeat;
+}
+
+.BlockDetailByAdage {
+	background: #DFFDC5;
+	text-align: left;
+}
+
+.BlockDetailByAddressQuery {
+	width: 100%;
+	height: 60px;
+	margin-top: 20px;
+}
+
+.BlockDetailByAwoke {
+	height: 100px;
+	padding: 6px;
+}
+
+.AwokeButton {
+	background: url(images/awokeBtn_bg.gif) repeat-x;
+	cursor: pointer;
+	height: 30px;
+	width: 150px;
+	border: 1px solid #bddcf4;
+	color: #308C2F;
+	line-height: 28px;
+	text-align: center;
+	font-size: 12px;
+}
+
+.AwokeNum {
+	font-weight: bold;
+	color: #308C2F;
+}
+
+.BlockMemo {
+	width:99.9%;
+	height: 137px;
+	padding-top: 30px;
+	margin-top: 1px;
+	padding-bottom:1px;
+	background-color: #ffffff;
+	text-align: center;
+}
+
+.DetailLine {
+	width: 100%;
+	height: 19px;
+	line-height: 18px;
+	color: #308C2F;
+	padding-left: 4px;
+	list-style-type: none;
+	border-bottom: solid 1px #D6DC95;
+}
+
+.EndDetailLine {
+	width: 100%;
+	height: 19px;
+	line-height: 18px;
+	color: #308C2F;
+	padding-left: 4px;
+	list-style-type: none;
+}
+
+.DetailLineInfo {
+	float: left;
+	color: #308C2F;
+	text-align:left;
+}
+
+.DetailLineName {
+	float: right;
+	padding-right: 10px;
+	color: #308C2F;
+}
+
+.DetailLineTime {
+	float: right;
+	width: 38px;
+	height: 14px;
+	background: url(images/date_bg.gif) no-repeat;
+	text-align: center;
+	font-size: 12px;
+	color: #308C2F;
+}
+
+#BlockFoot {
+	height: 22px;
+	padding-right: 11px;
+	padding-top: 5px;
+	background:url(images/htmlbg.jpg) repeat-x left bottom !important;
+	filter: progid:DXImageTransform.Microsoft.gradient(startcolorstr=#eaeaea,endcolorstr=#ffffff,gradientType=0);
+}
+
+#BlockFootMore {
+	float: right;
+	font-size: 12px;
+}
+
+#BlockFootMore A {
+	COLOR: #308C2F; TEXT-DECORATION: none
+}
+
+#Votting {
+	height: 142px;
+	text-align: left;
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-top: 10px;
+}
+
+#Votting li {
+	line-height: 25px;
+	color: #308C2F;
+	font-size: 13px;
+}
+
+#VottingHeader {
+	border-bottom: solid 1px #abcce4;
+	margin-bottom: 10px;
+	font-weight: bold;
+}
+
+#AddressQuery {
+	list-style-type: none;
+	padding-top: 30px;
+	text-align: center;
+}
+
+#AddressQuery li {
+	line-height: 30px;
+	color: #308C2F;
+	font-size: 13px;
+	padding-bottom: 5px;
+}
+
+.InputStyle {
+	BORDER-TOP: #B2DA71 1px solid; 
+	BORDER-BOTTOM: #B2DA71 1px solid; 
+	BORDER-LEFT: #B2DA71 1px solid; 
+	BORDER-RIGHT: #B2DA71 1px solid; 
+	width: 100%;
+	HEIGHT: auto; 
+	BACKGROUND-COLOR: #FFFFFF;
+	color: #308C2F;
+}
+
+.ButtonStyle {
+	height: 20px;
+	color: #308C2F;
+	cursor: pointer;
+	padding: 0 8px;
+	border-top: 0px solid #87a3c1 !important;
+	border: 1px solid #87a3c1;
+	background:url("images/func_btn_bg.gif") repeat-x !important;
+	filter: progid:DXImageTransform.Microsoft.gradient(startcolorstr=#ffffff,endcolorstr=#308C2F,gradientType=0);
+}
+
+.QueryButton {
+	border: 1px solid #87a3c1;
+	background: url(images/search.gif) no-repeat;
+	color: #308C2F;
+	padding-left: 16px;
+	padding-right: 8px;
+	padding-top: 1px;
+	height: 20px;
+}
+
+.Text_area_style {
+	border: 1px solid #B2DA71;
+	background: #fff;
+	color: #004a7d;
+	height: 100%;
+	width: 100%;
+	padding: 5px;
+}
+
+#AwokeInfo {
+	list-style-type: none;
+	padding-top: 20px;
+	padding-left: 20px;
+}
+
+#AwokeInfo li {
+	line-height: 25px;
+	color: #308C2F;
+	font-size: 13px;
+}
+
+#pictureContent {
+        margin:0;
+	float:left;
+	color: #308C2F;
+	padding-top: 5px;
+	padding-left: 10px;
+}
+
+#pictureContent li{
+	text-align: left;
+	line-height: 18px;
+	text-indent: 2em;
+}
+
+.WeatherCity {
+	color: #308C2F;
+	font-size: 12px;
+	width: 100%;
+}
+
+.WeatherCurrent {
+	font-size: 14px;
+	color: #308C2F;
+	font-family: ËÎÌו;
+	font-weight: bold;
+	float: left;
+	margin-right: 15px;
+	padding-top: 8px;
+}
+
+#WeatherDetail {
+	float: left;
+	font-size: 12px;
+	color: #308C2F;
+	font-family: ËÎÌו;
+	padding-left: 10px;
+	margin: 0;
+}
+
+.WeatherMemo {
+	color: #308C2F;
+	font-size: 12px;
+	width: 100%;
+	float: left;
+	margin-top: 8px;
+}
+

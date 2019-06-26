@@ -1,0 +1,57 @@
+.Navigation_img_bg {
+	FILTER: progid:DXImageTransform.Microsoft.Gradient(gradientType=1,startColorStr=#EEF2DA,endColorStr=#FFFFFF);
+	background-color: #FFEED4;
+}
+
+.Navigation_line1 {
+	background-color: #FFFFFF;
+}
+
+.Navigation_line2 {
+	background-color: #F7C446;
+}
+
+.Navigation_bg {
+	background-color: #EEF2DA;
+}
+
+.Navigation_bg_img1 {
+	background: url(navigation_01.gif);
+}
+
+.Navigation_bg_img2 {
+	background: url(navigation_02.gif);
+}
+
+.Navigation_bg_img3 {
+	background: url(navigation_03.gif);
+}
+
+.Navigation_bg_img4 {
+	background: url(navigation_04.gif);
+}
+
+.Navigation_bg_img5 {
+	background: url(navigation_05.gif);
+}
+
+.Navigation_bg_img6 {
+	background: url(navigation_06.gif);
+}
+
+.Navigation_bg_img7 {
+	background: url(navigation_07.gif);
+}
+
+.Navigation_bg_img8 {
+	background: url(navigation_08.gif);
+}
+
+.Navigation_bg_img9 {
+	background: url(navigation_09.gif);
+}
+
+.Navigation_bg_img10 {
+	background: url(navigation_10.gif);
+}
+

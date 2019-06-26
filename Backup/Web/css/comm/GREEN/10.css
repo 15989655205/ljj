@@ -1,0 +1,27 @@
+.Panel_day {
+	background: url(pannel_day.gif);
+}
+
+.Panel_week {
+	background: url(pannel_week.gif);
+}
+
+.Panel_month {
+	background: url(pannel_month.gif);
+}
+
+.Pannel_line1 {
+	background: #929292;
+}
+
+.Pannel_line2 {
+	background: #FFFFFF;
+}
+
+.Pannel_line3 {
+	background: #D53131;
+}
+
+.Pannel_line4 {
+	background: #7F9DB9;
+}

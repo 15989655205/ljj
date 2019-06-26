@@ -1,0 +1,20 @@
+.MemoTD {
+	BORDER-BOTTOM: #DFDFDF 1px solid; 
+}
+
+.noborder {
+	BORDER: 0px;
+}
+
+.TableDetail2 {
+	font-family: ËÎÌו;
+	font-size: 9pt;
+	cursor: pointer;
+}
+
+.selectLine {
+	background-color: #F8E5E4;
+	font-size: 9pt;
+	color: #000000;
+	cursor: pointer;
+}

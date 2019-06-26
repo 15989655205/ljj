@@ -1,0 +1,43 @@
+.bodyBg {
+	background-color: #F3F9FD;
+}
+
+#guideTree {
+	padding-top: 20px;
+	padding-left: 10px;
+	margin: 0px;
+}
+
+#guideTree li {
+	list-style-type:none;
+	font-size: 12px;
+	height: 30px;
+}
+
+.point {
+	float: left; 
+	width: 20px;
+}
+
+.content {
+	padding-left: 5px;
+	float: left;
+}
+
+.content_bg{
+	FILTER: progid:DXImageTransform.Microsoft.Gradient(gradientType=0,startColorStr=#FFFFFF,endColorStr=#F5F2E9);
+	border-top: solid 1px #C0C0C0;
+	border-left: solid 1px #C0C0C0;
+	border-right: solid 1px #C0C0C0;
+}
+
+.content_bottom_bg{
+	background-color: #DEDEDE;
+	border-left: solid 1px #C0C0C0;
+	border-right: solid 1px #C0C0C0;
+	border-bottom: solid 1px #C0C0C0;
+}
+
+.next_step {
+	background-color: #DBDBDB;
+}

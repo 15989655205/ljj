@@ -1,0 +1,114 @@
+.FuncBtnBlue {
+	float: left;
+	cursor: pointer;
+}
+
+.FuncBtnHeadBlue {
+	background: url( images/func_btn_head_bg_blue.jpg ) no-repeat;
+	float: left;
+	width: 3px;
+	height: 25px;
+}
+
+.FuncBtnMemoBlue {
+	background: url( images/func_btn_bg_blue.jpg ) repeat-x;
+	float: left;
+	height: 25px;
+	padding-top: 4px;
+	padding-left: 7px;
+	padding-right: 7px;
+}
+
+.FuncBtnTailBlue {
+	background: url( images/func_btn_tail_bg_blue.jpg ) no-repeat;
+	float: left;
+	width: 3px;
+	height: 25px;
+}
+
+.FuncBtnGreen {
+	float: left;
+	cursor: pointer;
+}
+
+.FuncBtnHeadGreen {
+	background: url( images/func_btn_head_bg_green.jpg ) no-repeat;
+	float: left;
+	width: 2px;
+	height: 25px;
+}
+
+.FuncBtnMemoGreen {
+	background: url( images/func_btn_bg_green.jpg ) repeat-x;
+	float: left;
+	height: 25px;
+	padding-top: 4px;
+	padding-left: 7px;
+	padding-right: 7px;
+}
+
+.FuncBtnTailGreen {
+	background: url( images/func_btn_tail_bg_green.jpg ) no-repeat;
+	float: left;
+	width: 14px;
+	height: 25px;
+}
+
+.FuncBtnMemoSelected {
+	background: url(images/buttonselected.gif) repeat-x;
+	float: left;
+	height: 20px;
+	padding-top: 4px;
+	padding-left: 7px;
+	padding-right: 7px;
+}
+
+.FuncBtnHeadSelected  {
+	background: url(images/buttonselected.gif) no-repeat;
+	float: left;
+	height: 20px;
+}
+
+
+.FuncBtnTailSelected  {
+	background: url(images/buttonselected.gif) no-repeat;
+	float: left;
+	height: 20px;
+}
+
+.NoSelectedBody {
+	background: url( images/noselectedBack.gif ) no-repeat;
+	float: left;
+	width: 94px;
+	height: 24px;
+	padding-left: 8px;
+}
+
+.SelectedBody {
+	background: url( images/selectedBack.gif ) no-repeat;
+	float: left;
+	width: 94px;
+	height: 24px;
+	padding-left: 8px;
+}
+
+.TableBgStyleRed {
+	background: url( images/tablebgheadred.gif ) repeat-x;
+	float: left;
+	width: 47px;
+	height: 26px;
+}
+
+.TableBgStyleGreen {
+	background: url( images/tablebgheadgreen.gif ) repeat-x;
+	float: left;
+	width: 47px;
+	height: 26px;
+}
+
+.TableBgStyleBlue {
+	background: url( images/tablebgheadblue.gif ) repeat-x;
+	float: left;
+	width: 47px;
+	height: 26px;
+}

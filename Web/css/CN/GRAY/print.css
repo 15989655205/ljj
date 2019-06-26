@@ -1,0 +1,86 @@
+td {
+ 	font-size: 10pt;
+}
+
+.noprint{
+	display:none
+}
+
+.Btn_title {
+	font-family: ËÎÌו;
+	font-size: 10pt;
+}
+
+.ItemTitleFont {
+	font-family: ËÎÌו;
+	font-size: 9pt;
+}
+
+textarea{
+	BORDER-TOP: #8B8B8B 0px solid; 
+	BORDER-BOTTOM: #8B8B8B 0px solid; 
+	BORDER-LEFT: #8B8B8B 0px solid; 
+	BORDER-RIGHT: #8B8B8B 0px solid; 
+	width: 100%;
+	HEIGHT: 100%; 
+}
+
+.Text_area_style {
+	BORDER-TOP: #8B8B8B 0px solid; 
+	BORDER-BOTTOM: #8B8B8B 0px solid; 
+	BORDER-LEFT: #8B8B8B 0px solid; 
+	BORDER-RIGHT: #8B8B8B 0px solid; 
+	width: 100%;
+	HEIGHT: 100%; 
+}
+
+.writeTD {
+	BORDER-TOP: #7F9DB9 1px solid; 
+	BORDER-BOTTOM: #7F9DB9 1px solid; 
+	BORDER-LEFT: #7F9DB9 1px solid; 
+	BORDER-RIGHT: #7F9DB9 1px solid; 
+}
+
+.InputStyle {
+	BORDER-TOP: #8B8B8B 0px solid; 
+	BORDER-BOTTOM: #8B8B8B 0px solid; 
+	BORDER-LEFT: #8B8B8B 0px solid; 
+	BORDER-RIGHT: #8B8B8B 0px solid; 
+	width: 100%;
+	HEIGHT: auto; 
+}
+
+.disabledInput {
+	BORDER-TOP: #8B8B8B 0px solid; 
+	BORDER-BOTTOM: #8B8B8B 0px solid; 
+	BORDER-LEFT: #8B8B8B 0px solid; 
+	BORDER-RIGHT: #8B8B8B 0px solid; 
+	width: 100%;
+	HEIGHT: auto; 
+}
+
+.errorInput {
+	BORDER-TOP: #8B8B8B 0px solid; 
+	BORDER-BOTTOM: #8B8B8B 0px solid; 
+	BORDER-LEFT: #8B8B8B 0px solid; 
+	BORDER-RIGHT: #8B8B8B 0px solid; 
+	width: 100%;
+	HEIGHT: auto; 
+}
+
+.notWrite {
+	BORDER-TOP: #8B8B8B 0px solid; 
+	BORDER-BOTTOM: #8B8B8B 0px solid; 
+	BORDER-LEFT: #8B8B8B 0px solid; 
+	BORDER-RIGHT: #8B8B8B 0px solid; 
+	HEIGHT: auto; 
+}
+
+.SelectStyle {
+	BORDER-TOP: #8B8B8B 0px solid; 
+	BORDER-BOTTOM: #8B8B8B 0px solid; 
+	BORDER-LEFT: #8B8B8B 0px solid; 
+	BORDER-RIGHT: #8B8B8B 0px solid; 
+	width: 100%;
+}
+

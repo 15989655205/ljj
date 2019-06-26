@@ -1,0 +1,56 @@
+table {
+	font-family: ËÎÌå;
+	font-size: 9pt;
+}
+
+A:link {
+	COLOR: #FFFFFF; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #FFFFFF; TEXT-DECORATION: none
+}
+A:active {
+	COLOR: #FFFFFF; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #FFFFFF; TEXT-DECORATION: none
+}
+
+.Top_bg {
+	background: url(images/top_bg.gif);
+}
+
+.Top_bg1 {
+	background: #295596;
+	height: 3px;
+}
+
+.Top_bg2 {
+	FILTER: progid:DXImageTransform.Microsoft.Gradient(gradientType=0,startColorStr=#6CA7F7,endColorStr=#4986D4);
+	background: #1F92C9;
+	height: 22px;
+	color: red;
+	font-size: 12pt;
+}
+
+.Top_bg3 {
+	background: #4682D4;
+	height: 1px;
+}
+
+.Top_mid1 {
+	background: #FFFFFF;
+	height: 1px;
+}
+
+.Top_mid2 {
+	background: #FFFFFF;
+	height: 1px;
+}
+
+.ProjectTitle {
+	color: #000000;
+	font-size: 32pt;
+	font-family: ºÚÌå;
+}
+

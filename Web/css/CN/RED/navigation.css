@@ -1,0 +1,89 @@
+#NavigationBlockBorder {
+	width: 85%;
+	border: 1px solid #FFFFFF;
+	background: #EBA552;
+	padding: 1px;
+}
+
+#NavigationBlockBorderInside {
+	width: 100%;
+	background: #FFFFFF;
+}
+
+#NavigationBlock {
+	border: 3px solid #FDFCF3;
+	background: url(images/navigationBg.gif) repeat-y;
+	width: 100%;
+}
+
+#NavigationContent {
+	float: left;
+	text-align: left;
+	height: 200px;
+}
+
+#NavigationImg {
+	margin-top: 30px;
+	float: left;
+	height: 100%;
+	padding: 10px;
+	margin-right: 50px;
+}
+
+#NavigationImg table {
+	height: 100%;
+}
+
+#NavigationImg td {
+	vertical-align: bottom;
+}
+
+#NavigationList{
+	float: float;
+	padding-top: 20px;
+}
+
+#NavigationList li {
+	list-style-type: none;
+	color: #004779;
+	margin: 5px;
+	width: 150px;
+}
+
+#NavigationList table {
+	border: 0;
+	margin: 0; 
+	border-collapse:collapse;
+}
+
+.NavigationListTitle {
+	padding: 0;
+	font-size: 14px;
+	font-weight: bold;
+}
+
+#NavigationList ul {
+	margin: 0; 
+	width: 100%;
+	list-style-type: none;
+}
+
+#NavigationList li.Layer2 {
+	margin: 0px; 
+	padding-left: 70px; 
+	float: left;
+}
+
+#NavigationList li.Layer3 {
+	margin: 0px; 
+	padding-left: 20px; 
+	float: left;
+}
+
+#NavigationList tr {
+	height: 15px;
+}
+
+.GrayDottedLine {
+	border-bottom: 1px dotted #A3A3A3;
+}

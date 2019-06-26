@@ -1,0 +1,14 @@
+IFrame {
+	width:100%;
+	height:100%;
+}
+
+body {
+	scrollbar-base-color: #F8F8F8;
+	scrollbar-arrow-color: #BABABA;
+	scrollbar-track-color: #EEEEEE;
+	scrollbar-3dlight-color: #B6B6B6;
+	scrollbar-darkshadow-color: #B6B6B6;
+	scrollbar-face-color: #F8F8F8;
+	scrollbar-shadow-color: #BABABA;
+}

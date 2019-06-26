@@ -1,0 +1,30 @@
+
+#TableData tr.TableDetail3 {
+   COLOR: red; 
+   TEXT-DECORATION: font-weight:bolder;
+   background-color: #ffffff
+}
+
+#TableData tr.TableDetail4 {
+    COLOR: blue;
+	background-color: #ffffff;
+	height: 22px;
+}
+
+#TableData tr.TableDetail5 {
+    COLOR: green; 
+	background-color: #ffffff;
+	height: 22px;
+}
+
+A.Wait1:link {
+	COLOR: red; TEXT-DECORATION: font-weight:bolder;
+}
+
+A.Wait12:link {
+	COLOR: blue; TEXT-DECORATION: font-weight:bolder;
+}
+
+A.Wait13:link {
+	COLOR: green; TEXT-DECORATION: font-weight:bolder;
+}

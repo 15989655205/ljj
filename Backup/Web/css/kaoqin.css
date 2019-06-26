@@ -1,0 +1,262 @@
+﻿body {
+}
+body, td
+{
+    margin: 0px;
+    line-height: 20px;
+    font-size: 12px;
+    color: #000000;
+    scrollbar-base-color: #ffffff;
+    scrollbar-track-color: #ffffff;
+    scrollbar-face-color: #566984;
+    scrollbar-highlight-color: #C8ECE0;
+    scrollbar-3dlight-color: #ffffff;
+    scrollbar-darkshadow-color: #C8ECE0;
+    scrollbar-shadow-color: #C6EADE;
+    scrollbar-arrow-color: #ffffff;
+}
+submitcss
+{
+    border-top-width: 0px;
+    border-left-width: 0px;
+    background: url(../images/btn.png) no-repeat;
+    border-bottom-width: 0px;
+    width: 74px;
+    cursor: hand;
+    color: #ffffff;
+    height: 21px;
+    border-right-width: 0px;
+}
+textcss
+{
+    border-right: #404040 1px solid;
+    padding-right: 0px;
+    border-top: #404040 1px solid;
+    padding-left: 5px;
+    font-size: 9pt;
+    background: url(../images/input.png) repeat-x;
+    padding-bottom: 2px;
+    border-left: #404040 1px solid;
+    color: #212121;
+    padding-top: 2px;
+    border-bottom: #404040 1px solid;
+}
+.inputCss
+{
+    height: 20px;
+    width: 250px;
+}
+a:link
+{
+    font-size: 12px;
+    color: #000000;
+    text-decoration: underline;
+}
+a:visited
+{
+    font-size: 12px;
+    color: #000000;
+    text-decoration: underline;
+}
+a:hover
+{
+    font-size: 12px;
+    color: #CF7500;
+    text-decoration: none;
+}
+a.na:link
+{
+    font-size: 12px;
+    font-weight: bold;
+    color: Red;
+    text-decoration: none;
+}
+a.na:visited
+{
+    font-size: 12px;
+    font-weight: bold;
+    color: Red;
+    text-decoration: none;
+}
+a.na:hover
+{
+    font-size: 12px;
+    font-weight: bold;
+    color: Red;
+    text-decoration: underline;
+}
+a.hei:link
+{
+    font-size: 12px;
+    color: Black;
+    text-decoration: none;
+}
+a.hei:visited
+{
+    font-size: 12px;
+    color: Black;
+    text-decoration: none;
+}
+a.hei:hover
+{
+    font-size: 12px;
+    color: Black;
+    text-decoration: underline;
+}
+
+a.heiBold:link
+{
+    font-size: 12px;
+    font-weight: bold;
+    color: Black;
+    text-decoration: underline;
+}
+a.heiBold:visited
+{
+    font-size: 12px;
+    font-weight: bold;
+    color: Black;
+    text-decoration: underline;
+}
+a.heiBold:hover
+{
+    font-size: 12px;
+    font-weight: bold;
+    color: Black;
+    text-decoration: underline;
+}
+
+
+a.bai:link
+{
+    font-size: 12px;
+    color: White;
+    text-decoration: none;
+}
+a.bai:visited
+{
+    font-size: 12px;
+    color: White;
+    text-decoration: none;
+}
+a.bai:hover
+{
+    font-size: 12px;
+    color: White;
+    text-decoration: none;
+}
+.TextBoxCss
+{
+    height: 20px;
+    width: 140px;
+}
+
+.HerCss
+{
+    cursor: hand;
+}
+.tddisp
+{
+    display: none;
+}
+.TextBoxCss
+{
+    font-size: 12px;
+    color: Black;
+    width: 250px;
+}
+.ButtonCss
+{
+    font-size: 12px;
+}
+.DropCss
+{
+    font-size: 12px;
+}
+html
+{
+    margin: 0px;
+    padding: 0px;
+    height: 100%;
+    width: 100%;
+}
+
+.toolBotton
+{
+    border: none;
+    border-bottom: #99bbe8 1px solid;
+    background: #ccc url(images/share/tbg.gif) repeat-x 50% top;
+    overflow: hidden;
+    position: relative;
+    height: 25px;
+    padding: 0;
+    margin: 0;
+}
+.toolBotton a
+{
+    display: block;
+    width: auto;
+    cursor: pointer;
+}
+.toolBotton a span
+{
+    float: left;
+    display: block;
+    width: auto;
+    cursor: pointer;
+}
+
+body
+{
+    margin: 0;
+    background-color: #E8F1F8;
+    font-size: 12px;
+    font-family: "微软雅黑" , "宋体" ,Consolas,Verdana;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+}
+
+div, span, td
+{
+    font-family: "微软雅黑" , "宋体" ,Consolas,Verdana;
+}
+a:link, a:visited
+{
+    text-decoration: none;
+    color: #333;
+    font-family: "微软雅黑" , "宋体" ,Consolas,Verdana;
+}
+input
+{
+    border: solid 1px #3C7FB1;
+    font-family: "微软雅黑" , "宋体" ,Consolas,Verdana;
+}
+
+select
+{
+    border: #3C7FB1 1px solid;
+    font-family: "微软雅黑" , "宋体" ,Consolas,Verdana;
+}
+input[type='text']
+{
+    border: solid 1px #3C7FB1;
+    height: 18px;
+    font-family: "微软雅黑" , "宋体" ,Consolas,Verdana;
+}
+input[type='checkbox']
+{
+    border: none;
+    font-family: "微软雅黑" , "宋体" ,Consolas,Verdana;
+}
+input[type='radio']
+{
+    border: none;
+    font-family: "微软雅黑" , "宋体" ,Consolas,Verdana;
+}
+textarea
+{
+    border: solid 1px #3C7FB1;
+    overflow: auto;
+    font-family: "微软雅黑" , "宋体" ,Consolas,Verdana;
+}

@@ -1,0 +1,10 @@
+.textInputSpe{
+	width:221px;
+	position: absolute;
+}
+
+.selectSpe{
+	width:238px;
+	clip: rect(auto auto auto 220px); 
+	position: absolute;
+}

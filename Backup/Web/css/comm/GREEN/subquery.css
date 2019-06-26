@@ -1,0 +1,226 @@
+#TableTitle {
+	float: left;
+	width: 100%;
+	height: 25px;
+	border-top: 1px solid #d2d2d2;
+	filter: progid:DXImageTransform.Microsoft.gradient(startcolorstr=#e6e6e6,endcolorstr=#ffffff,gradientType=0);
+}
+
+#TableData {
+	float: left;
+	width: 100%;
+}
+
+#TableTitle td {
+	height: 25px;
+	border-left: 1px solid #d2d2d2;
+	border-right: 1px solid #ffffff;
+}
+
+.TableStyle {
+	font-size: 12px;
+	color: #004779;
+}
+
+#TableData td {
+	height: 24px;
+	vertical-align: middle;
+	border-top: 1px solid #d2d2d2;
+	padding-left: 8px;
+}
+
+#TableData tr.TableDetail1 {
+	background-color: #ffffff;
+	vertical-align: bottom;
+	height: 22px;
+}
+
+#TableData tr.TableDetail2 {
+	background-color: #ffffff;
+	height: 22px;
+}
+
+#TableData tr.selectLine {
+	background-color: #deecf7;
+	height: 22px;
+}
+
+#PageSelectorMax {
+	height: 10px;
+	width: 100%;
+	font-size: 12px;
+	color: #FF0000;
+	font-family: 宋体;
+	padding-left: 26px;
+}
+
+#PageSelectorBar {
+	height: 20px;
+	width: 100%;
+	padding-left: 26px;
+	padding-right: 15px;
+	font-size: 12px;
+	color: #005791;
+}
+
+#PageSelectorMemo {
+	float: left;
+	font-family: 宋体;
+	padding-top: 5px;
+}
+
+#PageSelectorSelectorArea {
+	float: right;
+}
+
+.PageSelectorSelected {
+	color: #FF0000;
+}
+
+#PageSelectorHead {
+	background: url(images/pageSelector_bg.gif) no-repeat;
+	padding-left: 2px;
+	padding-right: 2px;
+	width: 20px;
+	height: 20px;
+	font-family: webdings;
+}
+
+#PageSelectorNum {
+	background: url(images/pageSelector_bg.gif) no-repeat;
+	background-position: 0px 2.5px;
+	padding-left: 0px;
+	padding-right: 2px;
+	padding-top: 3px;
+	width: 20px;
+	height: 20px;
+	font-family: 宋体;
+	text-align: center;
+}
+
+#PageSelectorBar input {
+	height: 18px;
+	width: 20px;
+	font-family: 宋体;
+	border: 1px solid #005791;
+}
+
+#PageSelectorBar A:link {
+	COLOR: #005791; TEXT-DECORATION: none
+}
+
+#PageSelectorBar A:visited {
+	COLOR: #005791; TEXT-DECORATION: none
+}
+
+#PageSelectorBar A:active {
+	COLOR: #005791; TEXT-DECORATION: none
+}
+
+#PageSelectorBar A:hover {
+	COLOR: #005791; TEXT-DECORATION: none;
+}
+
+#FilePath {
+	border: 1px solid #7ea9c8;
+	height: 23px;
+	width: 95%;
+	background: #ffffff;
+}
+
+#FilePath div.PathTitle {
+	filter: progid:DXImageTransform.Microsoft.gradient(startcolorstr=#f0f7fc,endcolorstr=#cde2f2,gradientType=0);
+	padding-left: 5px;
+	padding-right: 8px;
+	padding-top: 5px;
+	vertical-align: middle;
+	border-right: 1px solid #7ea9c8;
+	width: 100px;
+	float: left;
+	height: 100%;
+	color: #4891c6;
+}
+
+#FilePath div.PathShow {
+	height: 100%;
+	float: left;
+	padding-top: 8px;
+	padding-left: 5px;
+	color: #aeaeae;
+}
+
+#FilePath div.PathEnd {
+	filter: progid:DXImageTransform.Microsoft.gradient(startcolorstr=#f0f7fc,endcolorstr=#cde2f2,gradientType=0);
+	height: 100%;
+	float: right;
+	padding-top: 5px;
+	padding-left: 5px;
+	padding-right: 5px;
+	border-left: 1px solid #7ea9c8;
+	color: #4891c6;
+}
+
+#SpaceShowArea {
+	float: left;
+	width: 100%;
+	border-top: 1px solid #abd8f9;
+	border-bottom: 1px solid #abd8f9;
+	filter: progid:DXImageTransform.Microsoft.gradient(startcolorstr=#ddedf8,endcolorstr=#f3f9fc,gradientType=0);
+	padding: 3px;
+	color: #4891c6;
+}
+
+#SpaceShowArea div.SpaceTitle {
+	padding-left: 15px;
+	padding-right: 8px;
+	padding-top: 5px;
+	vertical-align: middle;
+	float: left;
+	height: 100%;
+	width: 120px;
+}
+
+#SpaceShow {
+	float: left;
+	height: 20px;
+	width: 300px;
+	padding: 1px;
+}
+
+.show{
+	left: 110px;
+	height: 20px;
+	width: 300px;
+	padding: 1px;
+	color: #004b82;
+	border: 1px solid #abd8f9;
+	background: #ffffff;
+	position:absolute;
+	z-index: 1;
+}
+
+.number {
+	color: #004b82;
+	padding-top: 3px;
+	padding-left: 130px;
+	font-weight: bold;
+	position:absolute;
+	z-index: 2;
+}
+
+#SpaceShowArea div.SpaceEnd {
+	float: left;
+	padding-top: 5px;
+	padding-left: 22px;
+}
+
+.TableTailLine1 {
+	width: 100%;
+	border-top: 2px solid #e6e6e6;
+}
+
+.TableTailLine2 {
+	width: 100%;
+	margin-top: 1px;
+	border-top: 1px solid #d2d2d2;
+}

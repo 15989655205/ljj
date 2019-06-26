@@ -1,0 +1,87 @@
+.ItemBlock1 {
+	width: 100%;
+	text-align: left;
+	border: 3px solid #f3f8fc;
+	background: #ffffff;
+	height:100%;
+}
+
+.indexArea_title {
+	filter:dropshadow(color=#FFFFFF,offX=1,offY=1,Positive=1);
+	font-size: 10pt;
+	font-weight: bold;
+	color: #22811f;
+	height:1;
+}
+
+.indexArea_bar_bg_left {
+	background-image: url(images/index_bar_left.gif);
+	width: 6px;
+}
+
+.indexArea_bar_bg{
+	background-image: url(images/index_bar_bg.gif);
+}
+
+.indexArea_bar_bg_right {
+	background-image: url(images/index_bar_right.gif);
+	width: 5px;
+}
+.indexArea_Main_table {
+	border-left: solid 1px #5ac23a;
+	border-right: solid 1px #5ac23a;
+	border-bottom: solid 1px #5ac23a;
+	background: #FFFFFF;
+	
+}
+#indexArea_Main_table {
+	border-left: solid 1px red;
+	border-right: solid 1px #5ac23a;
+	border-bottom: solid 1px #5ac23a;
+	background: #FFFFFF;
+	padding-left: 10px;
+	padding-right: 10px;
+	width: 100%;
+}
+
+#indexArea_Main_table img {
+	margin-right: 20px;
+}
+
+#indexArea_Main_table ul {
+	margin: 0; 
+	width:100%; 
+	text-align:left;
+}
+
+#indexArea_Main_table li {
+	height: 20px;
+	padding-top: 5px;
+	border-bottom: 1px dotted #7e7e7e;
+}
+
+.ItemBlockBorder1 {
+	width: 87%;
+	text-align: left;
+	border: 1px solid #91c0e3;
+	float:right;
+	height:100%;
+}
+
+#MainArea1 {
+	width: 100%;
+	height:100%;
+	background: url(images/inputPageHeadBg.gif) repeat-x;
+	border-top: 2px solid #ffffff;
+}
+
+#TableData1 {
+	width: 100%;
+}
+
+#TableData1 td {
+	height: 24px;
+	vertical-align: middle;
+	border-top: 1px solid #d2d2d2;
+	padding-left: 8px;
+}

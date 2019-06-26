@@ -1,0 +1,68 @@
+/* sissi create 20120328  */
+/* 流程图颜色 FLOWXXX                      */
+/* 浏览画面颜色 LISTXXX                    */
+
+/* 未执行的步骤 */
+.FLOWNotDoStep {
+	color: #ffffff;
+}
+
+/* 已执行的步骤 */
+.FLOWDONEStep {
+	color: #0000FF;
+}
+
+/* 正在执行的步骤 */
+.FLOWDoingStep {
+	color: red;
+}
+
+/* 按时完成 */
+.LISTDoneNormal {
+	color: #0000FF;
+	TEXT-DECORATION:underline; 
+	CURSOR: hand;
+}
+
+/* 超期完成 */
+.LISTDoneExtended {
+	color: #CC9900;
+	TEXT-DECORATION:underline; 
+	CURSOR: hand;
+}
+
+/* 超期未完成 */
+.LISTDoingExtended {
+	color: #FF0000;
+	TEXT-DECORATION:underline; 
+	CURSOR: hand;
+}
+
+/* 正常未完成 */
+.LISTDoingNormal {
+	color: #004779;
+	TEXT-DECORATION:underline; 
+	CURSOR: hand;
+}
+
+/* 撤消 */
+.LISTRevoke {
+	color: #008000;
+	TEXT-DECORATION:underline; 
+	CURSOR: hand;
+}
+
+/* 审批通过 */
+.LISTFinishByPass {
+	color: #0000FF;
+	TEXT-DECORATION:underline; 
+	CURSOR: hand;
+}
+
+/* 审批未通过 */
+.LISTFinishByNoPass {
+	color: #800080;
+	TEXT-DECORATION:underline; 
+	CURSOR: hand;
+}
+

@@ -1,0 +1,534 @@
+﻿body 
+{
+    font-family: arial, verdana, helvetica, sans-serif;
+	font-size: 12px;
+}
+a{ color:Black; text-decoration:none;}
+a:hover{ color:Red; text-decoration:underline;}
+a img
+{
+	border: 0;
+}
+
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*
+
+	IMAGES
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+
+img
+{
+	border-style: none;
+    border-color: inherit;
+    border-width: medium;
+ 
+}
+
+.a {color: blue; text-decoration:underline;font-size:12px} 
+
+.a:link {color: blue; text-decoration:underline;}/*未访问：蓝色、无下划线 */
+.a:active:{color: red; } /*激活：红色 */
+/*.a:visited {color:purple;text-decoration:none;}*/ /*已访问：purple、无下划线 */
+.a:hover {color: red; text-decoration:underline;}/*鼠标移近：红色、下划线 */
+
+.mytable { 
+margin: 0; 
+border-left:1px solid #CCC; 
+border-top:1px solid #CCC; 
+
+border-right:1px solid #CCC; 
+border-bottom:1px solid #CCC; 
+/**padding-left:10px;
+padding-right:5px;
+padding-top:0px;
+padding-bottom:0px;**/
+} 
+
+
+.mytable th { 
+font: bold 11px "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif; 
+color:#666;
+border-right: 1px solid #CCC; 
+border-bottom: 1px solid #CCC; 
+border-top: 1px solid #CCC;
+border-left: 1px solid #CCC; 
+letter-spacing: 2px; 
+text-transform: uppercase; 
+text-align: left; 
+padding: 6px 6px 6px 12px; 
+filter:progid:DXImageTransform.Microsoft.Gradient(startColorStr=#FFFFFF, endColorStr=#E1E1E1, gradientType=0);
+
+} 
+
+.mytable td { 
+border-right: 1px solid  #CCC; 
+border-bottom: 1px solid #CCC; 
+background: #fff; 
+font-size:11px; 
+/*padding: 6px 6px 6px 12px; */
+color: #666; 
+} 
+
+
+.mytable td.alt { 
+background: #F5FAFA; 
+color: #797268; 
+} 
+
+.mytable th.spec { 
+border-left: 1px solid #C1DAD7; 
+border-top: 0; 
+background: #fff no-repeat; 
+font: bold 10px "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif; 
+} 
+
+.mytable th.specalt { 
+border-left: 1px solid #C1DAD7; 
+border-top: 0; 
+background: #f5fafa no-repeat; 
+font: bold 10px "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif; 
+color: #797268; 
+} 
+
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*
+
+	TABLES
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+
+td.adminTitle
+{
+	text-align: left;
+	vertical-align: middle;
+	width: 120px;
+	background-color:#C3D9E6;
+}
+
+td.adminTitleLeft
+{
+	text-align: left;
+	vertical-align: middle;
+	width: 150px;
+	background-color:#C3D9E6;
+}
+
+td.adminTitle img
+{
+	vertical-align: bottom;
+	padding-right: 2px;
+}
+
+td.adminData
+{
+	text-align: left;
+	vertical-align: middle;
+}
+
+
+/*表格样式。*/  
+.table   
+{
+    width:100%;  
+    padding: 10px 0px; 
+    margin: 0px;  
+    font-family:Arial, Tahoma, Verdana, Sans-Serif,宋体;  
+    border-left:1px solid #ADD8E6;  
+    border-collapse:collapse;  
+}  
+  
+/*表头样式。*/  
+.table th {  
+    font-size:12px;  
+    font-weight:600;  
+    color: #303030;  
+    border-right: 1px solid #ADD8E6;  
+    border-bottom: 1px solid #ADD8E6;  
+    border-top: 1px solid #ADD8E6;  
+    letter-spacing: 2px;  
+    text-align: left;  
+    padding: 10px 0px 10px 0px;  
+    background: url(../images/tablehdbg.png);  
+    white-space:nowrap;  
+    text-align:center;  
+    overflow: hidden;  
+}
+  
+/*单元格样式。*/  
+.table td {  
+    border-right: 1px solid #ADD8E6;  
+    border-bottom: 1px solid #ADD8E6; 
+    border-top: 1px solid #ADD8E6; 
+    background: #fff;  
+    font-size:12px;  
+    padding: 3px 3px 3px 6px;  
+    color: #303030;  
+    /*word-break:break-all;  
+    word-wrap:break-word; */ 
+    white-space:normal;  
+}  
+  
+/*蓝色单元格样式，主要用于隔行变色。*/  
+.table td.color{  
+    background:#edf7f9;  
+}  
+  
+/*表格中超级链接样式。*/  
+.table td a:link{  
+    font-weight:400 ;  
+    color:#2259D7 ;  
+    text-decoration:none  ;  
+   /*word-break:break-all;  
+    word-wrap:break-word; */  
+    white-space:normal;  
+}  
+  
+.table td a:visited {  
+    font-weight:400 ;  
+    color:#2259D7 ;  
+    text-decoration:none  ;  
+    /*word-break:break-all;  
+    word-wrap:break-word; */   
+    white-space:normal;  
+}  
+  
+.table td a:hover {  
+    font-weight:400 ;  
+    text-decoration:underline ;  
+    color: #303030;  
+    /*word-break:break-all;  
+    word-wrap:break-word; */ 
+    white-space:normal;  
+}  
+  
+.table td a:active {  
+    font-weight:400 ;  
+    text-decoration:none  ;  
+    color:#2259D7 ;  
+    /*word-break:break-all;  
+    word-wrap:break-word; */ 
+    white-space:normal;  
+}
+
+/*内容过长加省略号*/
+  .mlength
+  {
+  display: block;
+  overflow: hidden;  
+  white-space: nowrap;
+  overflow:hidden; 
+  text-overflow:ellipsis;  
+  /*-o-text-overflow: ellipsis;
+  text-overflow: ellipsis;*/
+  }
+  
+  .oaTopDiv
+{
+    /*position:relative;*/
+    position:fixed;
+}
+
+.section-header .title a
+{
+	text-decoration: none;
+	font-size: 11px;
+	color: #555;
+}
+
+
+.section-header
+{
+	border-bottom: solid 3px #dfdfdf;
+	padding-bottom: 1px;
+	margin-bottom: 10px;
+	height: 25px;
+}
+
+.section-header .title
+{
+	float: left;
+	color: #009FFF;
+	font-size: 14px;
+	font-weight: bold;
+	vertical-align: bottom;
+	padding-top: 5px;
+}
+
+.section-header .title img
+{
+	vertical-align: middle;
+	padding-bottom: 2px;
+}
+
+.section-header .options
+{
+	text-align: right;
+	float: right;
+}
+
+.adminButtonBlue
+{
+	background: url(../images/blue_button_bg.gif) no-repeat 25% 50% #333;
+	border: 1px solid #0f72ac;
+	margin-bottom: 3px;
+	color: #FFF;
+	height: 22px;
+	padding: 0 10px 0 10px;
+	font-size: 11px;
+	font-weight: bold;
+}
+  
+  /*OA 申请单表格样式*/
+.oa_Flow_Tab
+{
+    /*overflow:hidden;*/
+    
+    width: 100%;
+    padding:0px;
+    border-collapse:collapse;
+	border: 0px solid #000000;
+	text-align: left;
+	margin:0px;
+	/*ie only的英文强制换行*/
+    /*word-break:break-all;*/
+    /*点掉过宽的字符...*/
+    /*text-overflow:ellipsis;*/
+	/*table-layout:fixed;*/
+}
+
+.oa_Flow_Tab .fTR
+{
+    height:0px;
+    /*border: 0px;*/
+    /*border:0px;
+    border-bottom:1px;*/
+}
+.oa_Flow_Tab .TR
+{
+    height:0px;
+    /*border: 0px;*/
+    /*border:0px;*/
+    border-top:1px;
+}
+
+.oa_Flow_Tab .fTRTD
+{
+    width:20px;
+    border: 0px solid #FFFFFF;
+    border-bottom:1px solid #000000;
+}
+
+.oa_Flow_Tab .fTRLastTD
+{
+    border: 0px solid #FFFFFF;
+    border-bottom:1px solid #000000;
+}
+
+.oa_Flow_Tab td
+{
+	border: 1px solid #000000;
+	padding: 5px 5px 5px 5px;
+}
+
+.oa_Flow_Tab .titleTD
+{
+	border: 1px solid #000000;
+	padding: 5px 5px 5px 5px;
+	background-color:#DFDFDF;
+	text-align:right;
+}
+
+.oa_Flow_Tab .inputTD
+{
+	border: 1px solid #000000;
+	padding: 5px 5px 5px 5px;
+	background-color:#D8E8FF;
+}
+
+.oa_Flow_Tab .textarea
+{
+    width:98%;
+    height:100px;
+    border: 0px solid #ffffff;
+    overflow-y:hidden;
+    background-color:#D8E8FF;
+    readonly:expression(this.readOnly=false);
+}
+
+.oa_Flow_Tab .textareaReadonly
+{
+    width:98%;
+    height:100px;
+    border: 0px solid #ffffff;
+    overflow:hidden;
+    /*overflow-y:hidden;*/
+    readonly:expression(this.readOnly=true);
+    background-color:#DFDFDF;
+}
+
+.oa_Flow_Tab .oaInput
+{
+    /*p宽度自动增长*/
+	/*width:60;overflow-x:visible;overflow-y:visible;*/
+	width:98%;
+	border: 0px solid #ffffff;
+	background-color:#D8E8FF;
+	overflow:hidden;
+	readonly:expression(this.readOnly=false);
+	/*!important;*/
+}
+
+.oa_Flow_Tab .oaInputReadonly
+{
+    /*p宽度自动增长*/
+	/*width:60;overflow-x:visible;overflow-y:visible;*/
+	width:98%;
+	border: 0px solid #ffffff;
+	readonly:expression(this.readOnly=true);
+	/*fason:expression(this.readOnly=true); */  
+	background-color:#DFDFDF;
+}
+
+/*OA 申请单 审核流程 table样式*/
+.oa_Flow_Appr_Table
+{
+    width: 100%; 
+    padding: 0; 
+    margin: 0; 
+    border-collapse: collapse;
+	border: 0px solid #000000;
+    
+}
+
+.oa_Flow_Appr_Table th
+{
+    border:1px solid #000;
+    font: bold 11px "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif; 
+    color: #FFF; 
+    /*border-right: 1px solid #C1DAD7; 
+    border-bottom: 1px solid #C1DAD7; 
+    border-top: 1px solid #C1DAD7; */
+    letter-spacing: 2px; 
+    text-transform: uppercase; 
+    text-align:center; 
+    padding: 6px 6px 6px 12px; 
+    background: #636363  no-repeat; 
+}
+
+.oa_Flow_Appr_Table td  
+{
+    border:1px solid #000;
+    /*border-right: 1px solid #C1DAD7; 
+    border-bottom: 1px solid #C1DAD7;*/ 
+    background: #fff; 
+    font-size:11px; 
+    padding: 3px 3px 3px 5px; 
+    color: #4f6b72; 
+}
+
+.oa_Flow_Appr_Table .diTD 
+{
+    border:1px solid #000;
+    /*border-right: 1px solid #C1DAD7; 
+    border-bottom: 1px solid #C1DAD7;*/ 
+    background: #fff7cf; 
+    font-size:11px; 
+    padding: 3px 3px 3px 5px; 
+    color: #4f6b72; 
+}
+
+.Input200
+{
+	border: 1px solid #a4bed4;
+	width: 200px;
+	height:17px;
+}
+  /*start--自定义Ａ标签样式*/
+  .a_black{color:#000000; text-decoration:none;font-weight:normal;}
+  .a_black:link{ color:#000000; text-decoration:none;font-weight:normal;}
+  .a_black:visited{ color:#000000; text-decoration:none;font-weight:normal;}
+  .a_black:hover{ color:#000000; text-decoration:none;font-weight:normal;}
+  .a_black:actived{ color:#000000; text-decoration:none;font-weight:normal;}
+  /*end--自定义Ａ标签样式*/
+  
+
+div.top_loading{background:url('/images/loading.gif') no-repeat;width:32px;height:32px;top:100px;left:100px;background-color:transparent;position:fixed;z-index:10000;}
+div.top_loaded{width:1px;height:1px;background-color:transparent;display:none;}
+
+/*==========以下部分是Validform必须的===========*/
+.Validform_checktip{
+	margin-left:8px;
+	/*margin-right:8px;*/
+	line-height:20px;
+	height:20px;
+	overflow:hidden;
+	color:#999;
+	font-size:12px;
+}
+.Validform_right{
+	color:#71b83d;
+	padding-left:20px;
+	background:url(../images/right.png) no-repeat left center;
+}
+.Validform_wrong{
+	color:red;
+	padding-left:20px;
+	white-space:nowrap;
+	background:url(../images/error.png) no-repeat left center;
+}
+.Validform_loading{
+	padding-left:20px;
+	background:url(../images/onLoad.gif) no-repeat left center;
+}
+.Validform_error{
+	background-color:#ffe7e7;
+}
+#Validform_msg{color:#7d8289; font: 12px/1.5 tahoma, arial, \5b8b\4f53, sans-serif; width:280px; -webkit-box-shadow:2px 2px 3px #aaa; -moz-box-shadow:2px 2px 3px #aaa; background:#fff; position:absolute; top:0px; right:50px; z-index:99999; display:none;filter: progid:DXImageTransform.Microsoft.Shadow(Strength=3, Direction=135, Color='#999999');}
+#Validform_msg .iframe{position:absolute; left:0px; top:-1px; z-index:-1;}
+#Validform_msg .Validform_title{line-height:25px; height:25px; text-align:left; font-weight:bold; padding:0 8px; color:#fff; position:relative; background-color:#000;}
+#Validform_msg a.Validform_close:link,#Validform_msg a.Validform_close:visited{line-height:22px; position:absolute; right:8px; top:0px; color:#fff; text-decoration:none;}
+#Validform_msg a.Validform_close:hover{color:#cc0;}
+#Validform_msg .Validform_info{padding:8px;border:1px solid #000; border-top:none; text-align:left;}
+
+.registerform{margin-bottom:40px;}
+.registerform .need{
+	width:10px;
+	color:#b20202;
+}
+.registerform td{
+	padding:5px 0;
+	vertical-align:top;
+	text-align:left;
+}
+.registerform .inputxt,.registerform textarea{
+	border:1px solid #a5aeb6;
+	width:196px;
+	padding:4px 2px;
+}
+.registerform textarea{
+	height:75px;
+}
+.registerform label{
+	margin:0 15px 0 4px;
+}
+.registerform .tip{
+	line-height:20px;
+	color:#5f6a72;
+}
+.registerform select{
+	width:202px;
+}
+
+.mytextarea
+{
+    width:98%;
+    height:80;
+    border: 0px solid #000000;
+    overflow:hidden;
+    overflow-y:hidden;
+    background-color:#F8FAFF;
+}
+
+.inputRight
+{
+    text-align:right;
+}

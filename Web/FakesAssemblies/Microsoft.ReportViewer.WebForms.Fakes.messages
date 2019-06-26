@@ -1,0 +1,616 @@
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.ReportingServices.WebServer.ParamsAreaInitialState 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.ReportingServices.WebServer.DeviceInfoTags 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.ReportingServices.Rendering.HtmlRenderer.BrowserMode 生成存根: 类型是一个值类型。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.ReportingServices.Rendering.HtmlRenderer.DeviceInfo 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.ReportingServices.Rendering.HtmlRenderer.PaddingSharedInfo 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.ReportingServices.Rendering.HtmlRenderer.Direction 生成存根: 类型是一个值类型。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.ReportingServices.Rendering.HtmlRenderer.ActionType 生成存根: 类型是一个值类型。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.ReportingServices.Rendering.HtmlRenderer.SharedListLayoutState 生成存根: 类型是一个值类型。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.ReportingServices.Rendering.HtmlRenderer.StyleContext 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.ReportingServices.Rendering.HtmlRenderer.HTMLWriter 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.ReportingServices.Rendering.HtmlRenderer.InvalidSectionException 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.ReportingServices.Rendering.HtmlRenderer.HTML4Renderer 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.ReportingServices.Rendering.HtmlRenderer.StyleWriterMode 生成存根: 类型是一个值类型。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.ReportingServices.Rendering.HtmlRenderer.ElementStyleWriter 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.ReportingServices.Rendering.HtmlRenderer.ParagraphStyleWriter 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.ReportingServices.Rendering.HtmlRenderer.TextRunStyleWriter 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.ReportingServices.Rendering.HtmlRenderer.HTMLHeader 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.ReportingServices.Rendering.HtmlRenderer.OmittedHeaderData 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.ReportingServices.Rendering.HtmlRenderer.OmittedHeaderStack 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.ReportingServices.Rendering.HtmlRenderer.RenderRes 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.ReportingServices.Rendering.HtmlRenderer.HTMLRendererResources 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.ReportingServices.Rendering.HtmlRenderer.TablixFixedHeaderStorage 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.ReportingServices.Rendering.HtmlRenderer.IReportWrapper 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.ReportingServices.Rendering.HtmlRenderer.EnumStrings 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.ReportingServices.Rendering.HtmlRenderer.ListLevel 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.ReportingServices.Rendering.HtmlRenderer.ListLevelStack 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.ReportingServices.Rendering.HtmlRenderer.Utility 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Report 生成存根: 类型没有系列可见的构造函数。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.LocalReport 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.InitializeDataSourcesEventHandler 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.InitializeDataSourcesEventArgs 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ServerReport 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.AbortState 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.RSExecutionConnection 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ServerReportSoapProxy 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.ReportingServices.Common.UrlUtil 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.CreateStreamCallback 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ProcessingMode 生成存根: 类型是一个值类型。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ZoomMode 生成存根: 类型是一个值类型。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Severity 生成存根: 类型是一个值类型。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.PageCountMode 生成存根: 类型是一个值类型。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ParameterAutoSubmit 生成存根: 类型是一个值类型。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.IReportServerCredentials 生成存根: method System.Security.Principal.WindowsIdentity Microsoft.Reporting.WebForms.IReportServerCredentials.get_ImpersonationUser() unstubbable: 方法是抽象的，因此无法用作存根。原因: 类型 System.Security.Principal.WindowsIdentity 在目标框架版本中不可用。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.IReportServerConnection 生成存根: method System.Security.Principal.WindowsIdentity Microsoft.Reporting.WebForms.IReportServerCredentials.get_ImpersonationUser() unstubbable: 方法是抽象的，因此无法用作存根。原因: 类型 System.Security.Principal.WindowsIdentity 在目标框架版本中不可用。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.IReportServerConnection2 生成存根: method System.Security.Principal.WindowsIdentity Microsoft.Reporting.WebForms.IReportServerCredentials.get_ImpersonationUser() unstubbable: 方法是抽象的，因此无法用作存根。原因: 类型 System.Security.Principal.WindowsIdentity 在目标框架版本中不可用。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ITemporaryStorage 生成存根: method System.IO.Stream Microsoft.Reporting.WebForms.ITemporaryStorage.CreateTemporaryStream() unstubbable: 方法是抽象的，因此无法用作存根，类型 System.IO.Stream 在目标框架版本中不可用。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ContentDisposition 生成存根: 类型是一个值类型。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ReportAreaContent 生成存根: 类型是一个值类型。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.InteractivityPostBackMode 生成存根: 类型是一个值类型。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ReportPageSettings 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.SearchState 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ReportParameterCollection 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ReportParameter 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.RenderingExtension 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Warning 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ReportDataSourceInfo 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ReportDataSourceInfoCollection 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.DataSourceCredentialsCollection 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.DataSourceCredentials 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ReportDataSource 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.SyncList`1 生成存根: 类型没有系列可见的构造函数。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ReportDataSourceCollection 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.DeviceInfoNameBlackList 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.EnsureUnlocked 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.DeviceInfo 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.DeviceInfoCollection 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.DocumentMapNode 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ReportViewerHeaderCollection 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ReportViewerCookieCollection 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.InvalidConfigFileTypeException 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.AspNetSessionExpiredException 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.InvalidTemporaryStorageStreamException 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ScriptManagerNotFoundException 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.MissingReportServerConnectionInformationException 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.SessionDisabledException 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.HttpHandlerInputException 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ViewStateDisabledException 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.MissingParameterException 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.MissingDataSourceCredentialsException 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.MissingDataSourceException 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.LocalProcessingException 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ClientRenderingException 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ReportSecurityException 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.MissingEndpointException 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.SoapVersionMismatchException 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.MissingReportSourceException 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ParameterDataType 生成存根: 类型是一个值类型。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ParameterState 生成存根: 类型是一个值类型。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ReportParameterInfo 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ReportParameterInfoCollection 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ValidValue 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.PageNavigationEventHandler 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.PageNavigationEventArgs 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.SearchEventHandler 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.SearchEventArgs 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.DocumentMapNavigationEventHandler 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.DocumentMapNavigationEventArgs 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.BookmarkNavigationEventHandler 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.BookmarkNavigationEventArgs 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.DrillthroughEventHandler 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.DrillthroughEventArgs 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.SortOrder 生成存根: 类型是一个值类型。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.SortEventHandler 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.SortEventArgs 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.SubreportProcessingEventHandler 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.SubreportProcessingEventArgs 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ReportErrorEventHandler 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ReportErrorEventArgs 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.BackEventHandler 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.BackEventArgs 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ZoomChangedEventHandler 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ZoomChangeEventArgs 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ReportCredentialsEventHandler 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ReportCredentialsEventArgs 生成存根: 类型没有系列可见的构造函数。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ReportParametersEventHandler 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ReportParametersEventArgs 生成存根: 类型没有系列可见的构造函数。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.LocalizationHelper 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ReportTypeConverter 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ReportChangedEventArgs 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.SRDescriptionAttribute 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.SRCategoryAttribute 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.CommonStrings 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.ReportViewerUtils 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.DataSourceWrapper 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.LocalDataRetrievalFromDataSet 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.DataSourceCollectionWrapper 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ProcessingContextForDataSets 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.DataSetExtensionConnection 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ReportViewerFactory 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.ExtensionTypeEnum 生成存根: 类型是一个值类型。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.ParameterTypeEnum 生成存根: 类型是一个值类型。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.ParameterStateEnum 生成存根: 类型是一个值类型。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.PageCountMode 生成存根: 类型是一个值类型。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.SortDirectionEnum 生成存根: 类型是一个值类型。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.ListSecureMethodsCompletedEventHandler 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.ListSecureMethodsCompletedEventArgs 生成存根: 类型没有系列可见的构造函数。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.LoadReportCompletedEventHandler 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.LoadReportCompletedEventArgs 生成存根: 类型没有系列可见的构造函数。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.LoadReport2CompletedEventHandler 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.LoadReport2CompletedEventArgs 生成存根: 类型没有系列可见的构造函数。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.LoadReportDefinitionCompletedEventHandler 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.LoadReportDefinitionCompletedEventArgs 生成存根: 类型没有系列可见的构造函数。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.LoadReportDefinition2CompletedEventHandler 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.LoadReportDefinition2CompletedEventArgs 生成存根: 类型没有系列可见的构造函数。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.SetExecutionCredentialsCompletedEventHandler 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.SetExecutionCredentialsCompletedEventArgs 生成存根: 类型没有系列可见的构造函数。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.SetExecutionCredentials2CompletedEventHandler 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.SetExecutionCredentials2CompletedEventArgs 生成存根: 类型没有系列可见的构造函数。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.SetExecutionParametersCompletedEventHandler 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.SetExecutionParametersCompletedEventArgs 生成存根: 类型没有系列可见的构造函数。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.SetExecutionParameters2CompletedEventHandler 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.SetExecutionParameters2CompletedEventArgs 生成存根: 类型没有系列可见的构造函数。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.ResetExecutionCompletedEventHandler 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.ResetExecutionCompletedEventArgs 生成存根: 类型没有系列可见的构造函数。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.ResetExecution2CompletedEventHandler 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.ResetExecution2CompletedEventArgs 生成存根: 类型没有系列可见的构造函数。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.RenderCompletedEventHandler 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.RenderCompletedEventArgs 生成存根: 类型没有系列可见的构造函数。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.Render2CompletedEventHandler 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.Render2CompletedEventArgs 生成存根: 类型没有系列可见的构造函数。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.RenderStreamCompletedEventHandler 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.RenderStreamCompletedEventArgs 生成存根: 类型没有系列可见的构造函数。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.GetExecutionInfoCompletedEventHandler 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.GetExecutionInfoCompletedEventArgs 生成存根: 类型没有系列可见的构造函数。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.GetExecutionInfo2CompletedEventHandler 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.GetExecutionInfo2CompletedEventArgs 生成存根: 类型没有系列可见的构造函数。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.GetDocumentMapCompletedEventHandler 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.GetDocumentMapCompletedEventArgs 生成存根: 类型没有系列可见的构造函数。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.LoadDrillthroughTargetCompletedEventHandler 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.LoadDrillthroughTargetCompletedEventArgs 生成存根: 类型没有系列可见的构造函数。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.LoadDrillthroughTarget2CompletedEventHandler 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.LoadDrillthroughTarget2CompletedEventArgs 生成存根: 类型没有系列可见的构造函数。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.ToggleItemCompletedEventHandler 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.ToggleItemCompletedEventArgs 生成存根: 类型没有系列可见的构造函数。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.NavigateDocumentMapCompletedEventHandler 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.NavigateDocumentMapCompletedEventArgs 生成存根: 类型没有系列可见的构造函数。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.NavigateBookmarkCompletedEventHandler 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.NavigateBookmarkCompletedEventArgs 生成存根: 类型没有系列可见的构造函数。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.FindStringCompletedEventHandler 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.FindStringCompletedEventArgs 生成存根: 类型没有系列可见的构造函数。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.SortCompletedEventHandler 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.SortCompletedEventArgs 生成存根: 类型没有系列可见的构造函数。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.Sort2CompletedEventHandler 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.Sort2CompletedEventArgs 生成存根: 类型没有系列可见的构造函数。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.GetRenderResourceCompletedEventHandler 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.GetRenderResourceCompletedEventArgs 生成存根: 类型没有系列可见的构造函数。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.ListRenderingExtensionsCompletedEventHandler 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.ListRenderingExtensionsCompletedEventArgs 生成存根: 类型没有系列可见的构造函数。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.LogonUserCompletedEventHandler 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.LogoffCompletedEventHandler 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.EndpointVersion 生成存根: 类型是一个值类型。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.CompositeScriptControl 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.AsyncWaitControl 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.AsyncWaitControlTriggerCollection 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ClientCanceledStateChangeEventArgs 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.BrowserNavigationCorrector 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.IPublicViewState 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ReportViewerClientScript 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ClientPrintInfo 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ScriptReferenceValidationDescriptor 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Constants 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.HandlerOperationTypes 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.DelegatedRenderingControl 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.DocMapArea 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.Common.ResourceList 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.Common.EmbeddedResources 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ErrorControl 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Errors 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Global 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.HandlerOperation 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ViewerDataOperation 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ReportDataOperation 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.SessionKeepAliveOperation 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.CalendarIframeOperation 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ReportImageOperation 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.PrintCabOperation 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.PrintRequestOperation 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ExportOperation 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.EmbeddedResourceOperation 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ReportServerStyleSheetOperation 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.BackgroundImageOperation 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.HttpHandlerMissingErrorMessage 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.LocalHtmlRenderer 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.NoScriptControl 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.IBrowserDetection 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.BrowserDetection 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.IParameterSupplier 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ParametersArea 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ViewReportButton 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ParameterControlCollection 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ParameterInputControlFactory 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.BaseParameterInputControl 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.BooleanParameterInputControl 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.BooleanParameterControl 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.DataSourceControlCollection 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.DataSourceControl 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.DropDownValidator 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ServerErrorValidator 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ServerErrorValidatorForException 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.BooleanParamValidator 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.PanelUpdater 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.UpdateGroup 生成存根: 类型是一个值类型。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.PostBackTextBox 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.PostBackRadioButton 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.PostBackCheckBox 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.AutoPostBackEventArgs 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.TextParameterInputControl 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ValidValuesParameterInputControl 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.SpaceAwareDropDownList 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.GenericDropDownInputControl 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ParameterInputRequiredValidator 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.MultiValueInputControl 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.MultiValueTextInputControl 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.MultiValueValidValuesInputControl 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.CalendarDropDownInputControl 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.HtmlInputImageWithClientID 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.MultiValueSelector 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.MultiValidValuesSelector 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.MultiValueTextSelector 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.JavaScriptHelper 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.TextBoxWithClientID 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ParameterInputControlStrings 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.EventableTextBox 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.TextButton 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ReportActionHandler 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.SearchResult 生成存根: 类型是一个值类型。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ActionScrollStyle 生成存根: 类型是一个值类型。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ScrollTarget 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ReportArea 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ReportAreaAsyncLoadTarget 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ReportAreaVisibilityState 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ReportControl 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.PostBackTarget 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ReportActionEventArgs 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ReportControlSession 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.LocalModeSession 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ServerModeSession 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.MemoryThenTempStorageStream 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ClientArchitecture 生成存根: 类型是一个值类型。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ReportParameterSupplier 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ReportSplitter 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ReportChangeType 生成存根: 类型是一个值类型。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ReportRenderingState 生成存根: 类型是一个值类型。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ReportInfo 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ReportHierarchy 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.DataSourceViewSelectCallbackEvent 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ReportViewerEmbeddedResources 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.IReportViewerStyles 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ReportViewerStyle 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Strings 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ToolbarControl 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ToolbarGroup 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.PageNavigationGroup 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.BackGroup 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.RefreshGroup 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ZoomGroup 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.FindGroup 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ExportGroup 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.PrintGroup 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ButtonImageInfo 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.MenuInfo 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.DropDownMenu 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ToolbarImageInfo 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.HoverImage 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ScriptSwitchImage 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ValidatorPanel 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.ReportingServices.Rendering.HtmlRenderer.ViewerRendererDeviceInfo 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.ReportingServices.Rendering.HtmlRenderer.ViewerRenderer 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.WaitControl 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.WebConfigReader 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ConfigFilePropertyInterface`1 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.CalendarPage 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.CalendarPageControl 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.SPLangId 生成存根: 类型是一个值类型。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.DateOptions 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.DatePicker 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.SimpleDate 生成存根: 类型是一个值类型。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.SPIntlCal 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ISPCalendar 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.SPGregorianCalendar 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.SPCalendarUtil 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.SolarCalendarImpl 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.GregorianCalendarImpl 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.IntlDate 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.SPCalendarType 生成存根: 类型是一个值类型。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.SPDatePickerControl 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.SPStringUtility 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.SPUrlUtility 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.SPHttpUtility 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.SPUtility 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.LocalPrintCabInfo 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.CreateStreamDelegate 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.StreamCache 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.CachedStream 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.SafeLiteralControl 生成存根: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.WebRequestHelper 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.ReportingServices.Diagnostics.WebRequestUtil 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.ReportingServices.Diagnostics.Utilities.BrowserDetectionUtility 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.RdlCompile 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.RdlBuildProvider 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 FXAssembly 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 ThisAssembly 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 AssemblyRef 生成存根: 类型已密封。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 <PrivateImplementationDetails>{7842939A-1171-4C30-B646-172E482FCE1E} 生成存根: 类型不受支持，因为存在内部限制。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.ReportingServices.WebServer.ParamsAreaInitialState 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.ReportingServices.WebServer.DeviceInfoTags 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.ReportingServices.Rendering.HtmlRenderer.BrowserMode 生成填充码: 类型是一个枚举。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.ReportingServices.Rendering.HtmlRenderer.DeviceInfo 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.ReportingServices.Rendering.HtmlRenderer.PaddingSharedInfo 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.ReportingServices.Rendering.HtmlRenderer.Direction 生成填充码: 类型是一个枚举。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.ReportingServices.Rendering.HtmlRenderer.ActionType 生成填充码: 类型是一个枚举。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.ReportingServices.Rendering.HtmlRenderer.SharedListLayoutState 生成填充码: 类型是一个枚举。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.ReportingServices.Rendering.HtmlRenderer.StyleContext 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.ReportingServices.Rendering.HtmlRenderer.HTMLWriter 生成填充码: 类型是一个接口。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.ReportingServices.Rendering.HtmlRenderer.InvalidSectionException 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.ReportingServices.Rendering.HtmlRenderer.HTML4Renderer 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.ReportingServices.Rendering.HtmlRenderer.StyleWriterMode 生成填充码: 类型是一个枚举。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.ReportingServices.Rendering.HtmlRenderer.ElementStyleWriter 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.ReportingServices.Rendering.HtmlRenderer.ParagraphStyleWriter 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.ReportingServices.Rendering.HtmlRenderer.TextRunStyleWriter 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.ReportingServices.Rendering.HtmlRenderer.HTMLHeader 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.ReportingServices.Rendering.HtmlRenderer.OmittedHeaderData 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.ReportingServices.Rendering.HtmlRenderer.OmittedHeaderStack 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.ReportingServices.Rendering.HtmlRenderer.RenderRes 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.ReportingServices.Rendering.HtmlRenderer.HTMLRendererResources 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.ReportingServices.Rendering.HtmlRenderer.TablixFixedHeaderStorage 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.ReportingServices.Rendering.HtmlRenderer.IReportWrapper 生成填充码: 类型是一个接口。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.ReportingServices.Rendering.HtmlRenderer.EnumStrings 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.ReportingServices.Rendering.HtmlRenderer.ListLevel 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.ReportingServices.Rendering.HtmlRenderer.ListLevelStack 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.ReportingServices.Rendering.HtmlRenderer.Utility 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.LocalReport+<>c__DisplayClass1 生成填充码: 类型不受支持，因为存在内部限制。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.LocalReport+CredentialsCollection 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.LocalReport+ReportRuntimeSetupHandler 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.InitializeDataSourcesEventHandler 生成填充码: 类型是一个委托。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.InitializeDataSourcesEventArgs 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.AbortState 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.RSExecutionConnection 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ServerReportSoapProxy 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.ReportingServices.Common.UrlUtil 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.CreateStreamCallback 生成填充码: 类型是一个委托。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ProcessingMode 生成填充码: 类型是一个枚举。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ZoomMode 生成填充码: 类型是一个枚举。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Severity 生成填充码: 类型是一个枚举。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.PageCountMode 生成填充码: 类型是一个枚举。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ParameterAutoSubmit 生成填充码: 类型是一个枚举。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.IReportServerCredentials 生成填充码: 类型是一个接口。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.IReportViewerMessages 生成填充码: 类型是一个接口。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.IReportViewerMessages2 生成填充码: 类型是一个接口。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.IReportViewerMessages3 生成填充码: 类型是一个接口。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.IReportServerConnection 生成填充码: 类型是一个接口。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.IReportServerConnection2 生成填充码: 类型是一个接口。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ITemporaryStorage 生成填充码: 类型是一个接口。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ContentDisposition 生成填充码: 类型是一个枚举。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ReportAreaContent 生成填充码: 类型是一个枚举。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.InteractivityPostBackMode 生成填充码: 类型是一个枚举。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.DeviceInfoNameBlackList 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.EnsureUnlocked 生成填充码: 类型是一个委托。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.DocumentMapNode+NodeStackEntry 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.HttpHandlerInputException 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ParameterDataType 生成填充码: 类型是一个枚举。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ParameterState 生成填充码: 类型是一个枚举。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.PageNavigationEventHandler 生成填充码: 类型是一个委托。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.SearchEventHandler 生成填充码: 类型是一个委托。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.DocumentMapNavigationEventHandler 生成填充码: 类型是一个委托。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.BookmarkNavigationEventHandler 生成填充码: 类型是一个委托。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.DrillthroughEventHandler 生成填充码: 类型是一个委托。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.SortOrder 生成填充码: 类型是一个枚举。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.SortEventHandler 生成填充码: 类型是一个委托。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.SubreportProcessingEventHandler 生成填充码: 类型是一个委托。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ReportErrorEventHandler 生成填充码: 类型是一个委托。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.BackEventHandler 生成填充码: 类型是一个委托。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ZoomChangedEventHandler 生成填充码: 类型是一个委托。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ZoomChangeEventArgs 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ReportCredentialsEventHandler 生成填充码: 类型是一个委托。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ReportParametersEventHandler 生成填充码: 类型是一个委托。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.LocalizationHelper 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ReportChangedEventArgs 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.SRDescriptionAttribute 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.SRCategoryAttribute 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.CommonStrings 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.ReportViewerUtils 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.DataSourceWrapper 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.LocalDataRetrievalFromDataSet 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.DataSourceCollectionWrapper 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ProcessingContextForDataSets 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.DataSetExtensionConnection 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ReportViewerFactory 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.ExtensionTypeEnum 生成填充码: 类型是一个枚举。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.ParameterTypeEnum 生成填充码: 类型是一个枚举。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.ParameterStateEnum 生成填充码: 类型是一个枚举。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.PageCountMode 生成填充码: 类型是一个枚举。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.SortDirectionEnum 生成填充码: 类型是一个枚举。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.ListSecureMethodsCompletedEventHandler 生成填充码: 类型是一个委托。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.LoadReportCompletedEventHandler 生成填充码: 类型是一个委托。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.LoadReport2CompletedEventHandler 生成填充码: 类型是一个委托。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.LoadReportDefinitionCompletedEventHandler 生成填充码: 类型是一个委托。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.LoadReportDefinition2CompletedEventHandler 生成填充码: 类型是一个委托。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.SetExecutionCredentialsCompletedEventHandler 生成填充码: 类型是一个委托。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.SetExecutionCredentials2CompletedEventHandler 生成填充码: 类型是一个委托。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.SetExecutionParametersCompletedEventHandler 生成填充码: 类型是一个委托。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.SetExecutionParameters2CompletedEventHandler 生成填充码: 类型是一个委托。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.ResetExecutionCompletedEventHandler 生成填充码: 类型是一个委托。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.ResetExecution2CompletedEventHandler 生成填充码: 类型是一个委托。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.RenderCompletedEventHandler 生成填充码: 类型是一个委托。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.Render2CompletedEventHandler 生成填充码: 类型是一个委托。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.RenderStreamCompletedEventHandler 生成填充码: 类型是一个委托。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.GetExecutionInfoCompletedEventHandler 生成填充码: 类型是一个委托。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.GetExecutionInfo2CompletedEventHandler 生成填充码: 类型是一个委托。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.GetDocumentMapCompletedEventHandler 生成填充码: 类型是一个委托。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.LoadDrillthroughTargetCompletedEventHandler 生成填充码: 类型是一个委托。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.LoadDrillthroughTarget2CompletedEventHandler 生成填充码: 类型是一个委托。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.ToggleItemCompletedEventHandler 生成填充码: 类型是一个委托。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.NavigateDocumentMapCompletedEventHandler 生成填充码: 类型是一个委托。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.NavigateBookmarkCompletedEventHandler 生成填充码: 类型是一个委托。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.FindStringCompletedEventHandler 生成填充码: 类型是一个委托。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.SortCompletedEventHandler 生成填充码: 类型是一个委托。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.Sort2CompletedEventHandler 生成填充码: 类型是一个委托。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.GetRenderResourceCompletedEventHandler 生成填充码: 类型是一个委托。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.ListRenderingExtensionsCompletedEventHandler 生成填充码: 类型是一个委托。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.LogonUserCompletedEventHandler 生成填充码: 类型是一个委托。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.LogoffCompletedEventHandler 生成填充码: 类型是一个委托。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Internal.Soap.ReportingServices2005.Execution.EndpointVersion 生成填充码: 类型是一个枚举。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.CompositeScriptControl 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.AsyncWaitControl 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.AsyncWaitControlTriggerCollection 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ClientCanceledStateChangeEventArgs 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.BrowserNavigationCorrector 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.IPublicViewState 生成填充码: 类型是一个接口。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ReportViewerClientScript 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ClientPrintInfo 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ScriptReferenceValidationDescriptor 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Constants 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.HandlerOperationTypes 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.DelegatedRenderingControl 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.DocMapArea 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.Common.ResourceList 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.Common.EmbeddedResources 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ErrorControl 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Errors 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Global 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.HandlerOperation 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ViewerDataOperation 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ReportDataOperation 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.SessionKeepAliveOperation 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.CalendarIframeOperation 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ReportImageOperation 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.PrintCabOperation 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.PrintRequestOperation 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ExportOperation 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.EmbeddedResourceOperation 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ReportServerStyleSheetOperation 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.BackgroundImageOperation 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.HttpHandlerMissingErrorMessage 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.LocalHtmlRenderer 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.NoScriptControl 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.IBrowserDetection 生成填充码: 类型是一个接口。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.BrowserDetection 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.IParameterSupplier 生成填充码: 类型是一个接口。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ParametersArea 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ViewReportButton 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ParameterControlCollection 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ParameterInputControlFactory 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.BaseParameterInputControl 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.BooleanParameterInputControl 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.BooleanParameterControl 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.DataSourceControlCollection 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.DataSourceControl 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.DropDownValidator 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ServerErrorValidator 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ServerErrorValidatorForException 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.BooleanParamValidator 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.PanelUpdater 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.UpdateGroup 生成填充码: 类型是一个枚举。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.PostBackTextBox 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.PostBackRadioButton 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.PostBackCheckBox 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.AutoPostBackEventArgs 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.TextParameterInputControl 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ValidValuesParameterInputControl 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.SpaceAwareDropDownList 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.GenericDropDownInputControl 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ParameterInputRequiredValidator 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.MultiValueInputControl 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.MultiValueTextInputControl 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.MultiValueValidValuesInputControl 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.CalendarDropDownInputControl 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.HtmlInputImageWithClientID 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.MultiValueSelector 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.MultiValidValuesSelector 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.MultiValueTextSelector 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.JavaScriptHelper 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.TextBoxWithClientID 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ParameterInputControlStrings 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.EventableTextBox 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.TextButton 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ReportActionHandler 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.SearchResult 生成填充码: 类型是一个枚举。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ActionScrollStyle 生成填充码: 类型是一个枚举。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ScrollTarget 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ReportArea 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ReportAreaAsyncLoadTarget 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ReportAreaVisibilityState 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ReportControl 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.PostBackTarget 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ReportActionEventArgs 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ReportControlSession 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.LocalModeSession 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ServerModeSession 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.MemoryThenTempStorageStream 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ClientArchitecture 生成填充码: 类型是一个枚举。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ReportParameterSupplier 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ReportSplitter 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ReportChangeType 生成填充码: 类型是一个枚举。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ReportRenderingState 生成填充码: 类型是一个枚举。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ReportInfo 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ReportHierarchy 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.DataSourceViewSelectCallbackEvent 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ReportViewerEmbeddedResources 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.IReportViewerStyles 生成填充码: 类型是一个接口。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ReportViewerStyle 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.Strings 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ToolbarControl 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ToolbarGroup 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.PageNavigationGroup 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.BackGroup 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.RefreshGroup 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ZoomGroup 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.FindGroup 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ExportGroup 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.PrintGroup 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ButtonImageInfo 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.MenuInfo 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.DropDownMenu 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ToolbarImageInfo 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.HoverImage 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ScriptSwitchImage 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ValidatorPanel 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.ReportingServices.Rendering.HtmlRenderer.ViewerRendererDeviceInfo 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.ReportingServices.Rendering.HtmlRenderer.ViewerRenderer 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.WaitControl 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.WebConfigReader 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ConfigFilePropertyInterface`1 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.CalendarPage 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.CalendarPageControl 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.SPLangId 生成填充码: 类型是一个枚举。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.DateOptions 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.DatePicker 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.SimpleDate 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.SPIntlCal 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.ISPCalendar 生成填充码: 类型是一个接口。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.SPGregorianCalendar 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.SPCalendarUtil 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.SolarCalendarImpl 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.GregorianCalendarImpl 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.IntlDate 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.SPCalendarType 生成填充码: 类型是一个枚举。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.SPDatePickerControl 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.SPStringUtility 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.SPUrlUtility 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.SPHttpUtility 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.SPUtility 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.LocalPrintCabInfo 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.CreateStreamDelegate 生成填充码: 类型是一个委托。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.StreamCache 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.CachedStream 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.SafeLiteralControl 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.WebForms.WebRequestHelper 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.ReportingServices.Diagnostics.WebRequestUtil 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.ReportingServices.Diagnostics.Utilities.BrowserDetectionUtility 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.RdlCompile 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 Microsoft.Reporting.RdlBuildProvider 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 FXAssembly 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 ThisAssembly 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 AssemblyRef 生成填充码: 类型对 exported or assembly(Microsoft.ReportViewer.WebForms.Fakes) 不可见。
+E:\ZR\ZR\Web\Fakes\Microsoft.ReportViewer.WebForms.fakes : warning : 无法为 <PrivateImplementationDetails>{7842939A-1171-4C30-B646-172E482FCE1E} 生成填充码: 类型不受支持，因为存在内部限制。

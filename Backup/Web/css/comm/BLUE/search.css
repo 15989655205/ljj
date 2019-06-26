@@ -1,0 +1,42 @@
+.searchInput {
+	BORDER-TOP: #8B8B8B 1px solid; 
+	BORDER-BOTTOM: #8B8B8B 1px solid; 
+	BORDER-LEFT: #8B8B8B 1px solid; 
+	BORDER-RIGHT: #8B8B8B 1px solid; 
+	width: 400px;
+	HEIGHT: 25px;
+	BACKGROUND-COLOR: #FFFFFF
+}
+
+.highlight {
+	color: #CC0033;
+	font-weight: bold;
+}
+
+#QueryLine {
+	width: 100%;
+	border-top: 1px solid #abd8f9;
+	border-bottom: 2px solid #abd8f9;
+	filter: progid:DXImageTransform.Microsoft.gradient(startcolorstr=#ddedf8,endcolorstr=#ffffff,gradientType=0);
+	padding: 8px;
+	margin: 0;
+}
+
+#QueryResult {
+	margin: 10px;
+}
+
+#QueryResult li.Content {
+	margin-top: 10px;
+	margin-bottom: 20px;
+	color: #000000;
+	font-size: 12px;
+}
+
+#QueryResult A.Search {
+	COLOR: #0000CC; 
+	TEXT-DECORATION: underline;
+	font-size: 14px;
+	font-weight: bold;
+}
+

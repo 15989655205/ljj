@@ -1,0 +1,820 @@
+form {
+	margin-top: 0;
+	margin-bottom: 0;
+	margin-left: 0;
+	margin-right: 0;
+}
+
+#eWebOpenPdf {
+	height: 100%;
+	width: 100%;
+}
+
+.WapLogoBg {
+	background: url(images/wap_logo_bg.gif) repeat-x;
+	height: 60px;
+	border-bottom: 1px solid #FFFFFF;
+	padding-left: 20px;
+	padding-top: 15px;
+}
+
+.WapLoginBg {
+	border-top: 3px solid #56B3ED;
+	background: #FFFFFF;
+	padding-top: 15px;
+	width: 100%;
+	padding-bottom: 15px;
+}
+
+.WapLoginBottom {
+	background: #AEE7FF;
+	height: 58px;
+	border-bottom: 1px solid #FFFFFF;
+}
+
+.WapLoginVersionInfo {
+	background: #AEE7FF;
+	height: 20px;
+	line-height: 20px;
+	font-size: 13px;
+	color: #fff;
+	padding-left: 10px;
+}
+
+.WapLoginBtnBg {
+	background: url(images/wapLoginBg.gif) no-repeat;
+	width: 105px;
+	height: 33px;
+}
+
+.LoginInputUser {
+	color: #1083C2;
+	font-size: 14px;
+	font-weight: bold;
+}
+
+.LoginInputPwd {
+	color: #1083C2;
+	font-size: 14px;
+	font-weight: bold;
+	letter-spacing: 13px;
+}
+
+.LoginInput {
+	width: 100%;
+	height: 24px;
+	border:#B8B8B8 2px solid;
+}
+
+#WapPageHead {
+	background: url(images/wapTopBg.gif);
+	height: 33px;
+	padding-left: 15px;
+}
+
+.WapPageHeadLogo {
+	padding-top: 10px;
+	float: left;
+}
+
+.WapPageHeadInfo {
+	font-size : 12px;
+	color : #CEEDFF;
+	float: right;
+	margin-top: 8px;
+	padding-right: 10px;
+}
+
+#WapPageLineDu {
+	background: #56B3ED;
+	border-top: 1px solid #fff;
+	border-bottom: 2px solid #fff;
+}
+
+#WapMainMenuListArrow {
+	background: url(images/topArrow.gif) no-repeat;
+	border-bottom: 1px solid #fff;
+}
+
+#WapMainMenuListArrow img {
+	margin-left: 17px;
+}
+
+#WapMainMenuListContent {
+	background: url(images/zhuye.gif) repeat-x;
+	border-bottom: 1px solid #fff;
+}
+
+#WapMainMenuListContent a {
+	color: #1083C2;
+	TEXT-DECORATION:none;
+	font-size : 14px;
+	font-weight: bold;
+}
+
+#WapBtnLine {
+	background: url(images/wapBtnLineBg.gif) repeat-x;
+	height: 19px;
+}
+
+#WapBtnLine input {
+	background: transparent;
+	color: #1083C2;
+	font-size: 12px;
+	cursor:hand;
+	padding-left: 5px;
+	padding-right: 0;
+	padding-top: 0;
+	padding-bottom: 0;
+	MARGIN: 0px;
+	height: 18px;
+	border: 0 solid #000;
+}
+
+#WapBtnLine a {
+	color: #0A78B4;
+	TEXT-DECORATION:none;
+	font-size : 12px;
+}
+
+.WapBtnLineTitle {
+	background: #4CA8E4;
+	color: #fff;
+	font-size: 12px;
+	font-weight: bold;
+	height:19px;
+	padding-left: 19px;
+}
+
+.WapBtnLineFunctionBtn {
+	color: #0A78B4;
+	font-size: 12px;
+	line-height: 19px;
+	height:19px;
+	padding-right: 5px;
+}
+
+#WapPageLine {
+	background: #4CA8E4;
+	border-top: 2px solid #fff;
+	height:29px;
+	MARGIN: 0px; 
+	LIST-STYLE-TYPE: none;
+	padding-left: 8px;
+}
+
+#WapBtnLineReturnBtn{
+	background: url(images/returnBtnBg.gif) no-repeat;
+	color: #fff;
+	font-size: 12px;
+	height: 19px;
+	line-height: 19px;
+}
+
+#WapBtnLineReturnBtn a {
+	color: #fff;
+	font-size: 12px;
+	TEXT-DECORATION:none;
+}
+
+#WapPageLine a {
+	TEXT-DECORATION:none;
+	color: #1083C2;
+	font-size: 12px;
+}
+
+#WapPageLine li.SelectedTab {
+	background: url(images/selectedTab.gif) no-repeat;
+	margin-right: 2px;
+	float: left;
+	width: 82px;
+	height: 22px;
+	text-align: center;
+	line-height: 22px;
+	margin-top: 7px;
+	white-space:nowrap;
+}
+
+#WapPageLine li.WaitSelectTab {
+	background: url(images/waitSelect.gif) no-repeat;
+	margin-right: 2px;
+	float: left;
+	width: 70px;
+	height: 22px;
+	text-align: center;
+	line-height: 22px;
+	margin-top: 5px;
+	white-space:nowrap;
+}
+
+#WapPageLine li.SelectedTab1 {
+	background: url(images/waitSelectTabByWhite.gif) no-repeat;
+	margin-right: 2px;
+	float: left;
+	width: 78px;
+	height: 22px;
+	text-align: center;
+	line-height: 22px;
+	margin-top: 7px;
+	white-space:nowrap;
+}
+
+#WapMsgTitleColor {
+	background: url(images/ContentTitle.gif) repeat-x;
+	height:29px;
+	MARGIN: 0px; 
+	LIST-STYLE-TYPE: none;
+	padding-left: 8px;
+	padding-top: 5px;
+}
+
+#WapAddressSearch {
+	background: #E0F3FF;
+	height: 32px;
+	border-bottom: 2px solid #fff;
+	color: #1083C2;
+	font-size: 12px;
+}
+
+#WapMsgTitleColor li.SelectedTab {
+	background: url(images/msgSelectedTab.gif) no-repeat;
+	margin-right: 2px;
+	float: left;
+	width: 60px;
+	height: 18px;
+	color: #1083C2;
+	font-size: 12px;
+	text-align: center;
+	line-height: 18px;
+}
+
+#WapMsgTitleColor li.WaitSelectTab {
+	margin-right: 4px;
+	float: left;
+	height: 18px;
+	color: #1083C2;
+	font-size: 12px;
+	text-align: center;
+	line-height: 18px;
+}
+
+#WapAddressList {
+	border-bottom: 2px solid #4CA8E4;
+	font-size: 12px;
+}
+
+#WapAddressList a {
+	TEXT-DECORATION:none;
+	color: #2359AA;
+	font-size: 12px;
+}
+
+#WapAddressList TR.TableDetail1 {
+	height: 28px;
+	background: #E0F3FF;
+}
+
+#WapAddressList TR.TableDetail2 {
+	height: 28px;
+	background: #C0E7FF;
+}
+
+#WapAddressList TD {
+	border-bottom: 1px solid #fff;
+	height: 25px;
+	color: #2359AA;
+}
+
+#WapList {
+	font-size: 12px;
+	margin-left: 5px;
+	margin-right: 5px;
+	border-bottom: 2px solid #4CA8E4;
+}
+
+#WapList a {
+	TEXT-DECORATION:none;
+	color: #2359AA;
+	font-size: 12px;
+}
+
+#WapList TR.TableDetail1 {
+	height: 28px;
+}
+
+#WapList TR.TableDetail2 {
+	height: 28px;
+}
+
+#WapList TD {
+	border-bottom: 1px solid #A8A8A8;
+	background: #fff;
+	height: 25px;
+	color: #2359AA;
+}
+
+#WapList td.underlinetdwhite {
+	color: #A8A8A8;
+}
+
+#PageSelectorBar {
+	border-top: 1px solid #fff;
+	background: #DBEAF4;
+	margin-left: 5px;
+	margin-right: 5px;
+	color: #2359AA;
+}
+
+.wapButtonStyle2 {
+	height: 15px;
+	width: 31px;
+	color: #fff;
+	cursor: pointer;
+	border: 0px solid #87a3c1;
+	background:url(images/wapPageSelectorBtn.gif) repeat-x;
+	font-family: Verdana;
+	font-size: 12px;
+}
+
+.wapButtonStyle3 {
+	height: 22px;
+	width: 57px;
+	color: #fff;
+	border: 0px solid #87a3c1;
+	background:url(images/actNewCal.gif) repeat-x;
+	font-family: Verdana;
+	font-size: 12px;
+	text-align: center;
+	cursor:hand;
+	padding-left: 0px;
+	padding-right: 0;
+	padding-top: 0;
+	padding-bottom: 0;
+	MARGIN: 0px;
+}
+
+#WapMsgShow {
+	margin-top: 5px;
+	margin-left: 20px;
+	margin-right: 15px;
+}
+
+.LinkBtn {
+	background: transparent;
+	border: 0px solid #1E88C8;
+	color: #1083C2;
+	font-size: 12px;
+	cursor:hand;
+	padding-left: 0;
+	padding-right: 0;
+	text-align: left;
+}
+
+#WapMsgShow .MsgTitle {
+	font-size: 14px;
+	font-weight: bold;
+	color: #0F82C1;
+	border-bottom: 1px solid #B6CEDB;
+	padding-left: 5px;
+}
+
+#WapMsgShow .MsgInfo {
+	margin-top: 5px;
+	margin-left: 0;
+	margin-right: 0;
+	margin-bottom: 0;
+	LIST-STYLE-TYPE: none;
+	font-size: 12px;
+	color: #909090;
+	padding-left: 10px;
+	line-height: 20px;
+}
+
+#WapMsgShow .MsgContent {
+	font-size: 12px;
+	color: #4C86A6;
+}
+
+#WapMsgShow .Attachments {
+	margin-top: 10px;
+	font-size: 12px;
+	color: #4C86A6;
+}
+
+#WapMsgShow a {
+	color: #0976B2;
+	TEXT-DECORATION:none;
+}
+
+.WapBody {
+	border : 0px;
+	padding : 0px;
+	min-width : 240px;
+	margin : 0px auto;
+	font-size : 12px;
+}
+
+.WapViewBody {
+	background: #E0F3FF;
+	border : 0px;
+	padding : 0px;
+	min-width : 240px;
+	margin : 0px auto;
+	font-size : 12px;
+}
+
+#WapViewContent {
+	border: 1px solid #7CB6D5;
+	margin-top: 11px;
+	margin-left: 8px;
+	margin-right: 8px;
+	background: #FFFFFF;
+}
+
+#WapViewContent a {
+	TEXT-DECORATION:none;
+	color: #2359AA;
+	font-size: 12px;
+}
+
+#WapViewContent .Head {
+	padding-top: 8px;
+	padding-left: 8px;
+	padding-bottom: 8px;
+	background: #A2D9F7;
+	color: #0A77B2;
+	font-weight: bold;
+	font-size: 12px;	
+}
+
+#WapViewContent .Content{
+	background: #FFFFFF;
+	padding-top: 8px;
+	padding-left: 8px;
+	padding-bottom: 8px;
+	MARGIN: 0px; 
+	LIST-STYLE-TYPE: none;
+	color: #0A77B2;
+	font-size: 12px;
+}
+
+#WapViewContent td {
+	color: #0A77B2;
+	font-size: 12px;
+}
+
+#WapViewContent li.ItemTitle{
+	float: left;
+	width: 70px;
+	color: #0A77B2;
+	font-size: 12px;
+	height: 25px;
+	padding-top: 2px;
+}
+
+#WapViewContent li.ItemContent{
+	color: #0A77B2;
+	font-size: 12px;
+	height: 25px;
+}
+
+.WapInputAreaStyle {
+	border: #91c0e3 1px solid; 
+	width: 100%;
+	height: 150px;
+	background-color: #E3F6FE;
+	font-size:12px;
+}
+
+.WapInputStyle {
+	width: 100%;
+	HEIGHT: auto; 
+	BACKGROUND-COLOR: #FFFFFF;
+}
+
+.ErrorMsg {
+	font-size: 14px;
+	font-weight: bold;
+	color: #0F82C1;
+	padding-left: 5px;
+	padding-top: 10px;
+	text-align: center;
+}
+
+#WapDocumentList {
+	border-bottom: 2px solid #4CA8E4;
+	font-size: 12px;
+}
+
+#WapDocumentList a {
+	TEXT-DECORATION:none;
+	color: #2359AA;
+	font-size: 12px;
+}
+
+#WapDocumentList TR.UpFolder {
+	BACKGROUND-COLOR: #FFFFFF;
+	height: 28px;
+	color: #0A78B4;
+}
+
+#WapDocumentList TR.Folder {
+	BACKGROUND-COLOR: #DBF2FF;
+	height: 28px;
+	color: #0A78B4;
+}
+
+#WapDocumentList TR.File {
+	BACKGROUND-COLOR: #FFFFFF;
+	height: 28px;
+	color: #0A78B4;
+}
+
+#WapDocumentList TD.Folder {
+	border-bottom: 1px solid #FFFFFF;
+}
+
+#WapDocumentList TD.File {
+	border-bottom: 1px solid #C4E7FA;
+}
+
+.WapMsgTitle {
+	font-size : 12px;
+	color: #CEEDFF;
+}
+
+#WapPageLine1 {
+	background: url(images/pageTitle.gif) repeat-x;
+	height:26px;
+}
+
+#WapPageTitleLineDu {
+	background: url(images/XinxiyueduTitle.gif) repeat;
+	height:20px;
+	overflow:hidden;
+}
+
+.Btn {
+	color:blue;
+	cursor:pointer;
+	text-decoration:none;
+}
+
+.WapLinkStyle {
+	color : #0A78B4;
+}
+
+.WapLinkStyleTitle {
+	color : #FFFFFF;
+	font-weight: bold;
+}
+
+
+.WapMsgTitleT {
+	font-size : 18px;
+	color : #0F82C1;
+}
+
+.WapMsgTitleC {
+	font-size : 12px;
+	color : #0A78B4;
+}
+
+.WapMsgTitleH {
+	font-size : 12px;
+	color : #909090;
+}
+
+.WapMsgTitleTd {
+	background: url(images/XinxiyueduTitle.gif) repeat-x;
+}
+
+.WapTdRightL {
+	float: right;
+	text-align:center;
+	width : 60px; 
+	vertical-align:middle;
+}
+
+.WapTdRightS {
+	float: right;
+	width : 30px; 
+}
+
+.WapTdRightUdBS {
+	float: right;
+	border-bottom: 1px solid #C4E7FA;
+	width : 30px; 
+}
+
+
+.WapTdL {
+	text-align:center;
+	width : 80px; 
+}
+
+.WapTdBottom {
+	valign=bottom;
+}
+
+.WapMsgAttachMent {
+	font-size : 12px;
+	color : #0976B2;
+}
+
+.WapMsgTitleLittle {
+	font-size : 10px;
+}
+
+#WapPageTitleContent {
+	background: #4CA8E4;
+	WIDTH:50px;
+	margin:0px;
+	padding:0px;
+}
+
+.WapTitle {
+	font-size : 14px;
+}
+
+#WapPageHeadColor {
+	background:#E3F6FE ;
+	height: 24px;
+}
+
+#WapPageSelector {
+	font-size:12px;
+	padding-left:0px;
+}
+
+#WapDocBottom {
+	background: url(images/DocBottom.gif) repeat-x;
+	height:45px;
+}
+
+#WapWeiDuImg {
+	height:3px;
+	padding-top: 2px;
+}
+
+
+.FuncBtn {
+	float: left;
+	cursor: pointer;
+}
+
+.FuncBtnHead {
+	background: url(images/MsgReadHead.gif) no-repeat;
+	float: left;
+	width: 3px;
+	height: 20px;
+}
+
+.FuncBtnMemo {
+	background: url(images/MsgReadBody.gif) repeat-x;
+	float: left;
+	height: 20px;
+	padding-top: 4px;
+	padding-left: 8px;
+	padding-right: 8px;
+}
+
+.FuncBtnTail {
+	background: url(images/MsgReadTial.gif) no-repeat;
+	float: left;
+	width: 3px;
+	height: 20px;
+}
+
+.folderCss {
+	 bgcolor=#DBF2FF;
+}
+
+.bgchangeToRight{
+	background: url(images/tabRight.gif) no-repeat;	
+}
+
+.bgchangeToFalse{
+	background: url(images/tabFalse.gif) no-repeat;	
+}
+.underlinetdblue {
+	border-bottom: 1px solid #C4E7FA;
+}
+
+.HyperlinkStyle {
+	TEXT-DECORATION:none;
+	color:#1083C2;
+}
+
+.ALIGNRIGHTTD {
+	text-align:right;
+}
+
+.newRenWu{
+	background: url(images/actNewCal.gif) no-repeat;
+	margin:0px;
+		
+}
+
+.wapInputStyle {
+	BORDER: #91c0e3 1px solid; 
+	width: 100%;
+	HEIGHT: auto; 
+	BACKGROUND-COLOR: #FFFFFF;
+	color: #004779;
+}
+.wapInputStyle2 {
+	BORDER: #91c0e3 1px solid; 
+	HEIGHT: auto; 
+	BACKGROUND-COLOR: #FFFFFF;
+	color: #004779;
+}
+.wapButtonStyle {
+	height: 20px;
+	color: #004a7d;
+	cursor: pointer;
+	padding: 0 8px;
+	border-top: 0px solid #87a3c1 !important;
+	border: 1px solid #87a3c1;
+	background:url("images/func_btn_bg.gif") repeat-x !important;
+	filter: progid:DXImageTransform.Microsoft.gradient(startcolorstr=#ffffff,endcolorstr=#c5e7ff,gradientType=0);
+}
+.PageSelectorSelected {
+	color: #4CA8E4;
+	font-weight: bold 
+}
+
+#PageSelectorHead {
+	/*color: #4CA8E4;*/
+	/*font-size:11px;*/
+	width: 11px;
+	height: 10px;
+	margin: 0 auto;    
+	text-align: center;   
+	display: inline-block;    
+	font-family: webdings;       
+	background: url(images/wapPageSelectorBefore_bg.gif) no-repeat;   
+	background-position: 0px 4px; 
+}
+
+#PageSelectorHeadOut{
+	width: 11px;
+	height: 10px;
+	margin: 0 auto;
+	text-align: center;
+	padding-right:0px;
+	display: inline-block;
+	font-family: webdings;
+	background: url(images/wapPageSelectorBeforeOut.gif) no-repeat;   
+	background-position: 0px 4px; 
+}
+
+#PageSelectorNum {
+	color: #4CA8E4;
+	/*margin: 0 auto;*/
+	/*text-align:center;*/
+	/*background: url(images/pageSelector_bg.gif) no-repeat;*/
+	/*background-position: 0px 3px;*/
+	/*padding-top: 4px;*/
+	/*display: inline-block;*/
+	/*width: 20px;*/
+	/*height: 20px;*/
+	/*font-family: ËÎÌו;*/
+	/*text-align: center;*/
+	/*color: #DBEAF4;*/
+}
+
+#PageSelectorEnd {
+	width: 11px;
+	height: 10px;
+	margin: 0 auto;
+	text-align: center;
+	display: inline-block;
+	font-family: webdings;
+	background: url(images/wapPageSelectorNext_bg.gif) no-repeat;   
+	background-position: 0px 4px; 
+}
+
+#PageSelectorEndOut {
+	/*color: #4CA8E4;*/
+	/*font-size:11px;*/
+	width: 11px;
+	height: 10px;
+	margin: 0 auto;
+	text-align: center;
+	display: inline-block;
+	font-family: webdings;
+	background: url(images/wapPageSelectorNextOut_bg.gif) no-repeat;
+	background-position: 0px 4px;
+}
+
+#TableData tr.TableDetail1 {
+	background-color: #ffffff;
+	vertical-align: bottom;
+	height: 22px;
+}
+
+#TableData tr.TableDetail2 {
+	background-color: #ffffff;
+	height: 22px;
+}

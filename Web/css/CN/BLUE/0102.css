@@ -1,0 +1,41 @@
+body {
+	background: #f2fafd;
+	font-family: ËÎÌו;
+	font-size: 12px;
+}
+
+ul {
+	list-style-type: none;
+	margin: 2em;
+}
+
+li {
+	padding-bottom: 5px;
+} 
+
+#LogoPosition{
+	border: 0px;
+	position: absolute; 
+	top: 20px;
+	left: 20px;
+}
+
+#VersionHead {
+	background: url(images/version_bg.gif) no-repeat;
+	height: 76px;
+	width: 100%;
+}
+
+#VersionNum {
+	border-top: 3px solid #003286;
+	border-bottom: 1px solid #ffffff;
+	padding-top: 5px;
+	background: #bddbf1;
+	height: 30px;
+	width: 100%;
+	font-size: 13px;
+	font-family: Arial;
+	color: #000000;
+	text-align: center;
+	height: 25px;
+}

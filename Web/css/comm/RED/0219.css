@@ -1,0 +1,98 @@
+.OutsideBorder {
+	border: 1px solid #ffffff;
+	margin: 5x;
+	width: 230px;
+	float: left;
+}
+
+.InsideBorder {
+	border: 1px solid #EBA552;
+	width: 100%;
+	padding-top: 5px;
+	padding-left: 4px;
+	padding-right: 4px;
+	padding-bottom: 5px;
+}
+
+.OperateArea {
+	background-color: #ffffff;
+	width: 100%;
+}
+
+#SearchInputArea {
+	border: 1px solid #EBA552;
+	filter: progid:DXImageTransform.Microsoft.gradient(startcolorstr=#FFC775,endcolorstr=#ffffff,gradientType=0);
+	width: 100%;
+	padding: 0;
+	height: 22px;
+	margin-bottom: 5px;
+}
+
+#SearchInputArea img {
+	margin-bottom: -5px;
+}
+
+select {
+	width: 100%;
+	height: 200px;
+}
+
+.SearchInput {
+	BACKGROUND-COLOR: transparent;
+	border: 0;
+	color: #000000;
+	font-size: 12pt;
+	width: 170px;
+}
+
+#ItemListArea {
+	text-align: left;
+	border: 1px solid #EBA552;
+	height: 332px;
+}
+
+#ItemListArea ul {
+	margin: 0;
+}
+
+#ItemListArea span {
+	background-color: #FDFCF3;
+	margin: 1px;
+	border-bottom: 1px solid #EBA552;
+	height: 20px;
+	line-height: 20px;
+	color: #004a7d;
+	padding-left: 10px;
+	padding-top: 3px;
+	width: 100%;
+}
+
+#ItemListArea div {
+	background-color: #ffffff;
+	height: 220px;
+}
+
+#SelectedHead {
+	height: 25px;
+	text-align: left;
+	padding-left: 2px;
+	filter: progid:DXImageTransform.Microsoft.gradient(startcolorstr=#FFC775,endcolorstr=#ffffff,gradientType=0);
+	border: 1px solid #EBA552;
+	margin-bottom: 5px;
+	padding-top: 5px;
+	font-weight: bold;
+	font-size: 13px;
+}
+
+#SelectedHead img {
+	margin-bottom: -3px;
+}
+
+.Selected {
+	height: 330px;
+	width: 100%;
+	BORDER-TOP: #EBA552 0px solid; 
+	BORDER-BOTTOM: #EBA552 0px solid; 
+	BORDER-LEFT: #EBA552 0px solid; 
+	BORDER-RIGHT: #EBA552 0px solid; 
+}

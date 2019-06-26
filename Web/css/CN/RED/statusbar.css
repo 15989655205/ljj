@@ -1,0 +1,81 @@
+A:link {
+	COLOR: #FFD07E; TEXT-DECORATION: none
+}
+
+A:visited {
+	COLOR: #FFD07E; TEXT-DECORATION: none
+}
+
+A:active {
+	COLOR: #FFD07E; TEXT-DECORATION: none
+}
+
+A:hover {
+	COLOR: #FFEFD3; TEXT-DECORATION: none;
+}
+
+#StatusBar {
+	width: 100%;
+	height: 19px;
+	border-top: 1px solid #FF3E11;
+	filter: progid:DXImageTransform.Microsoft.gradient(startcolorstr=#CA0000,endcolorstr=#E60000,gradientType=0);
+}
+
+#Online {
+	padding-left: 16px;
+	padding-top: 6px;
+	color: #FFD07E;
+	font-family: 宋体;
+	font-size: 12px;
+	float: left;
+}
+
+.OnlineUser {
+	color: #ffffff;
+	font-family: 宋体;
+	font-size: 12px;
+	font-weight:bold;
+}
+
+.OnlineView {
+	padding-left: 16px;
+	color: #FFD07E;
+	font-family: 宋体;
+	font-size: 12px;
+}
+
+#Info {
+	padding-left: 20px;
+	padding-top: 6px;
+	color: #FFD07E;
+	font-family: 宋体;
+	font-size: 12px;
+	float: left;
+}
+
+#TryoutInfo {
+	padding-right: 20px;
+	padding-left: 20px;
+	color: #FFD07E;
+	font-family: 宋体;
+	font-size: 12px;
+}
+
+#DesktopText {
+	padding-right: 20px;
+	padding-top: 6px;
+	color: #FFD07E;
+	font-family: 宋体;
+	font-size: 12px;
+	float: right;
+}
+
+#DesktopText img {
+	margin-bottom: -3px;
+}
+
+#Version {
+	padding-right: 20px;
+	padding-left: 20px;
+	margin-bottom: -2px;
+}

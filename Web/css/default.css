@@ -1,0 +1,416 @@
+﻿*{font-size:12px; font-family:Tahoma,Verdana,微软雅黑,新宋体}
+body{ }
+a{ color:Black; text-decoration:none;}
+a:hover{ color:Red; text-decoration:underline;}
+.textbox03 {border: #878787 1px solid;padding: 4px 3px;font:Verdana, Geneva, sans-serif,宋体;line-height: 14px; background-color: #fff;  height: auto; font-size: 14px;  font-weight: bold; width: 190px; }
+
+.txt01{font:Verdana, Geneva, sans-serif,宋体;padding:3px 2px 2px 2px; border-width:1px; border-color:#ddd;  color:#000;}
+.txt {border: #878787 1px solid;padding: 4px 3px;font:Verdana, Geneva, sans-serif,宋体;line-height: 14px; background-color: #fff;  height: auto; font-size: 14px;}
+.footer{text-align:center;color:#15428B; margin:0px; padding:0px;line-height:23px; font-weight:bold;}
+
+.head a{color:White;text-decoration:underline;}
+
+.easyui-accordion1 ul{list-style-type:none;margin:0px; padding:5px;}
+.easyui-accordion1 ul li{ padding:0px;white-space: nowrap; }
+.easyui-accordion1 ul li a{line-height:20px;}
+.easyui-accordion1 ul li div{margin:2px 2px;padding-left:2px; padding-top:0px; }
+.easyui-accordion1 ul li div.hover{border:1px dashed #99BBE8 ;  background:#E0ECFF;cursor:pointer; }
+.easyui-accordion1 ul li div.hover a{color:#416AA3;}
+.easyui-accordion1 ul li div.selected{border:1px solid #99BBE8; background:#E0ECFF;cursor:default;}
+.easyui-accordion1 ul li div.selected a{color:#416AA3; font-weight:bold;}
+
+.nav{padding-left:20px; padding-top:4px; line-height:20px;}
+
+.icon-sys{ background:url(/images/directory.png) no-repeat;}
+
+.icon{ background:url(images/tabicons.png) no-repeat; width:16px; height:16px; position:absolute}
+.icon-add{background-position: -19px 0px;}
+.icon-nav{background-position: -100px -20px; }
+.icon-users{background-position: -100px -480px;}
+.icon-role{background-position: -360px -200px;}
+.icon-set{background-position: -380px -200px;}
+.icon-log{background-position: -380px -80px;}
+
+.icon-0{background:url(/Common/1.png) no-repeat;}
+.icon-1{background:url(/Common/2.png) no-repeat;}
+.icon-2{background:url(/Common/3.png) no-repeat;}
+.icon-3{background:url(/Common/4.png) no-repeat;}
+.icon-4{background:url(/Common/5.png) no-repeat;}
+.icon-5{background:url(/Common/6.png) no-repeat;}
+
+.easyuitable
+{
+}
+
+.mytable { 
+margin: 0; 
+border-left:1px solid #CCC; 
+border-top:1px solid #CCC; 
+
+border-right:1px solid #CCC; 
+border-bottom:1px solid #CCC; 
+/**padding-left:10px;
+padding-right:5px;
+padding-top:0px;
+padding-bottom:0px;**/
+} 
+
+
+.mytable th { 
+font: bold 11px "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif; 
+color:#666;
+border-right: 1px solid #CCC; 
+border-bottom: 1px solid #CCC; 
+border-top: 1px solid #CCC;
+border-left: 1px solid #CCC; 
+letter-spacing: 2px; 
+text-transform: uppercase; 
+text-align: left; 
+padding: 6px 6px 6px 12px; 
+filter:progid:DXImageTransform.Microsoft.Gradient(startColorStr=#FFFFFF, endColorStr=#E1E1E1, gradientType=0);
+
+} 
+
+.mytable td { 
+border-right: 1px solid  #CCC; 
+border-bottom: 1px solid #CCC; 
+background: #fff; 
+font-size:11px; 
+/*padding: 6px 6px 6px 12px; */
+color: #666; 
+} 
+
+
+.mytable td.alt { 
+background: #F5FAFA; 
+color: #797268; 
+} 
+
+.mytable th.spec { 
+border-left: 1px solid #C1DAD7; 
+border-top: 0; 
+background: #fff no-repeat; 
+font: bold 10px "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif; 
+} 
+
+.mytable th.specalt { 
+border-left: 1px solid #C1DAD7; 
+border-top: 0; 
+background: #f5fafa no-repeat; 
+font: bold 10px "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif; 
+color: #797268; 
+} 
+
+
+
+/*表格样式。*/  
+.table   
+{
+    width:100%;  
+    padding: 10px 0px; 
+    margin: 0px;  
+    font-family:Arial, Tahoma, Verdana, Sans-Serif,宋体;  
+    border-left:1px solid #ADD8E6;  
+    border-collapse:collapse;  
+}  
+  
+/*表头样式。*/  
+.table th {  
+    font-size:12px;  
+    font-weight:600;  
+    color: #303030;  
+    border-right: 1px solid #ADD8E6;  
+    border-bottom: 1px solid #ADD8E6;  
+    border-top: 1px solid #ADD8E6;  
+    letter-spacing: 2px;  
+    text-align: left;  
+    padding: 10px 0px 10px 0px;  
+    background: url(../images/tablehdbg.png);  
+    white-space:nowrap;  
+    text-align:center;  
+    overflow: hidden;  
+}
+  
+/*单元格样式。*/  
+.table td {  
+    border-right: 1px solid #ADD8E6;  
+    border-bottom: 1px solid #ADD8E6; 
+    border-top: 1px solid #ADD8E6; 
+    background: #fff;  
+    font-size:12px;  
+    padding: 3px 3px 3px 6px;  
+    color: #303030;  
+    /*word-break:break-all;  
+    word-wrap:break-word; */ 
+    white-space:normal;  
+}  
+  
+/*蓝色单元格样式，主要用于隔行变色。*/  
+.table td.color{  
+    background:#edf7f9;  
+}  
+  
+/*表格中超级链接样式。*/  
+.table td a:link{  
+    font-weight:400 ;  
+    color:#2259D7 ;  
+    text-decoration:none  ;  
+   /*word-break:break-all;  
+    word-wrap:break-word; */  
+    white-space:normal;  
+}  
+  
+.table td a:visited {  
+    font-weight:400 ;  
+    color:#2259D7 ;  
+    text-decoration:none  ;  
+    /*word-break:break-all;  
+    word-wrap:break-word; */   
+    white-space:normal;  
+}  
+  
+.table td a:hover {  
+    font-weight:400 ;  
+    text-decoration:underline ;  
+    color: #303030;  
+    /*word-break:break-all;  
+    word-wrap:break-word; */ 
+    white-space:normal;  
+}  
+  
+.table td a:active {  
+    font-weight:400 ;  
+    text-decoration:none  ;  
+    color:#2259D7 ;  
+    /*word-break:break-all;  
+    word-wrap:break-word; */ 
+    white-space:normal;  
+}
+
+.printtable { 
+/*margin: 0;  */
+margin-top:0px;
+margin-left:0px;
+margin-right:5px;
+border-left:2px solid #000; 
+border-top:2px solid #000; 
+
+border-right:1px solid #000; 
+border-bottom:1px solid #000;
+border-width:1;
+/*border-collapse: collapse; 
+border: none; */
+
+}
+
+.printtable .toptd  
+{
+    /*border: 1px solid  #000; */
+    border-top: 1px solid  #000; 
+border-left: 1px solid #000; 
+border-right: 1px solid  #000; 
+border-bottom: 1px solid #000; 
+background: #fff; 
+font-size:11px; 
+} 
+.printtable .td  
+{
+    /*border: 1px solid  #000; */
+    /*border-top: 1px solid  #000; 
+border-left: 1px solid #000; */
+border-right: 1px solid  #000; 
+border-bottom: 1px solid #000; 
+/*border: 1px solid black;*/
+background: #fff; 
+font-size:11px; 
+} 
+
+.printinnertable  
+{
+    width:100%;
+border-collapse: collapse; 
+border: none; 
+}
+.printinnertable .lasttr  
+{
+
+} 
+.printinnertable .lasttr th
+{
+background: #fff; 
+font-size:11px; 
+} 
+.printinnertable th,td 
+{
+    border: 1px solid black;
+} 
+.printinnertable th
+{
+} 
+.printinnertable table th,td{ border:0;}
+
+.printinnertable1  
+{
+    width:100%;
+border-collapse: collapse; 
+border: none; 
+}
+.printinnertable1 .lasttr  
+{
+
+} 
+.printinnertable1 .lasttr th
+{
+background: #fff; 
+font-size:11px; 
+} 
+.printinnertable1 th,td 
+{
+    border: 1px solid black;
+} 
+.printinnertable1 th
+{
+    height:45px;
+} 
+.printinnertable1 td
+{
+    /*height:50px;*/
+}
+.printinnertable1 table th,td{ border:0;}
+
+.printinnertable2  
+{
+    width:100%;
+border-collapse: collapse; 
+border: none; 
+
+}
+.printinnertable2   tr 
+{
+    
+ border-bottom:0px solid #000000;    
+}
+
+.printinnertable2 .lasttr  
+{
+
+} 
+.printinnertable2 .lasttr th
+{
+background: #fff; 
+font-size:11px; 
+} 
+.printinnertable2 th,td 
+{
+    /*border: 1px solid black;*/
+    border-top:1px solid black;
+    border-left:1px solid black;
+    border-bottom:1px solid black;
+
+} 
+.printinnertable2 th
+{
+    height:30px;
+} 
+.printinnertable2 table th,td{ border:0;}
+
+
+
+
+.printinnertable3  
+{
+    width:100%;
+border-collapse: collapse; 
+}
+.printinnertable3  tr td
+{
+    
+ border-bottom:1px solid #000000;    
+}
+
+.printinnertable3 .lasttr  
+{
+
+} 
+.printinnertable3 .lasttr th
+{
+background: #fff; 
+font-size:11px; 
+} 
+.printinnertable3 th,td 
+{
+    border: 1px solid black;
+} 
+.printinnertable3 th
+{
+    height:30px;
+} 
+.printinnertable3 table th,td{ border:0;}
+
+
+
+
+.printtable1 { 
+margin: 0; 
+border-left:1px solid #000; 
+border-top:1px solid #000; 
+
+
+}
+.printtable1 th,td 
+{
+    border-right: 1px solid  #000; 
+border-bottom: 1px solid #000;
+} 
+
+#menu span{display:block;float:left;vertical-align:middle;line-height:20px;border-right:#001F7A 1px solid;border-left:#668CFF 1px solid;width:100px;text-align:center;margin-top:5px}
+#menu .first{border-left:none;}
+#menu .last{border-right:none;}  
+
+.status-bar-easyui
+{
+	background:  url('images/admin-menu-bg.gif') repeat-x;	
+	height: 26px;
+	/*border: solid 1px #acacac;*/
+	padding: 0px 5px 0 5px;
+}
+.status-bar-easyui .breadcrumb
+{
+	float: right;
+	text-align: right;
+	padding-top: 5px;
+	padding-right: 5px;
+	color:White;
+}
+
+.status-bar-easyui a
+{
+	color:White;
+}
+
+/*内容过长加省略号*/
+  .mlength
+  {
+  display: block;
+  overflow: hidden;  
+  white-space: nowrap;
+  overflow:hidden; 
+  text-overflow:ellipsis;  
+  /*-o-text-overflow: ellipsis;
+  text-overflow: ellipsis;*/
+  }
+  
+  
+  
+  
+  /*start--自定义Ａ标签样式*/
+  .a_black{color:#000000; text-decoration:none;font-weight:normal;}
+  .a_black:link{ color:#000000; text-decoration:none;font-weight:normal;}
+  .a_black:visited{ color:#000000; text-decoration:none;font-weight:normal;}
+  .a_black:hover{ color:#000000; text-decoration:none;font-weight:normal;}
+  .a_black:actived{ color:#000000; text-decoration:none;font-weight:normal;}
+  /*end--自定义Ａ标签样式*/
+  
+
+div.top_loading{background:url('/images/loading.gif') no-repeat;width:32px;height:32px;top:100px;left:100px;background-color:transparent;position:fixed;z-index:10000;}
+div.top_loaded{width:1px;height:1px;background-color:transparent;display:none;}

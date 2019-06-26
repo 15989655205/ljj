@@ -1,0 +1,25 @@
+.TableStyle4023 {
+	background-color: #FF0000;
+}
+.InputStyle4023 {
+	BORDER-TOP: #8B8B8B 0px solid; 
+	BORDER-BOTTOM: #8B8B8B 0px solid; 
+	BORDER-LEFT: #8B8B8B 0px solid; 
+	BORDER-RIGHT: #8B8B8B 0px solid; 
+	width: 100%;
+	HEIGHT: auto; 
+	BACKGROUND-COLOR: #FFFFFF;
+}
+
+.Top_bg2 {
+	FILTER: progid:DXImageTransform.Microsoft.Gradient(gradientType=0,startColorStr=#ECF0F6,endColorStr=#FFFFFF);
+	height: 22px;
+}
+.TableTitle4023 {
+	background-color: #ECF0F6;
+}
+
+.Deep {
+	FILTER: progid:DXImageTransform.Microsoft.Gradient(gradientType=0,startColorStr=#E1E9F1,endColorStr=#ECF0F6);
+	background-color: #ECF0F6;
+}
